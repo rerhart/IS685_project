@@ -1,0 +1,1001 @@
+﻿Income,Gender,Age,Political Affiliation,Do you approve or disapprove of how Donald Trump is handling his job as president?,What is your highest level of education? ,What is your race?,What is your marital status?,"Do you believe that climate change is real and caused by people, real but not caused by people, or not real at all?",How many Transformers movies have you seen? ,Do you agree or disagree with the following statement: vaccines are safe and protect children from disease.,"How many books, if any, have you read in the past year?",Do you believe in ghosts?,TRUE-1 or FALSE-0: the earth is always farther away from the sun in the winter than in the summer.,Do you think it is Acceptable-1 orUnacceptable-0 to urinate in the shower?,"Is federal funding of scientific research TooHigh-1, TooLow-3, or AboutRight-2?",What percentage of the federal budget would you estimate is spent on scientific research?,Do you agree or disagree with the following statement: scientists are generally honest and are serving the public good. 
+8000,1,64,Democrat,1,College degree,White,Divorced,Real and Caused by People,1,2,20,1,0,0,3,NaN,5
+68000,1,56,Democrat,1,High school,Black,Single,NaN,0,2,6,0,0,0,1,90,4
+46000,0,63,Independent,4,Some college,White,Married,Real but not Caused by People,0,5,0,0,1,1,2,20,4
+51000,0,48,Republican,5,High school,White,Divorced,Not Real At All,0,2,1,0,0,0,2,10,2
+100000,1,32,Democrat,4,Some college,White,Married,Real and Caused by People,1,5,30,1,0,1,3,NaN,5
+54000,1,64,Democrat,1,Some college,White,Married,Real and Caused by People,0,5,15,0,1,0,3,1,5
+83000,0,61,Independent,4,College degree,White,Divorced,Real but not Caused by People,0,5,0,1,1,0,2,10,5
+114000,1,64,Republican,2,College degree,White,Married,Real and Caused by People,2,5,40,0,1,0,NaN,NaN,4
+90000,1,64,Republican,4,High school,White,Married,Real and Caused by People,0,5,0,0,1,0,2,90,4
+5000,1,68,Democrat,2,Some college,White,Widowed,Real and Caused by People,0,5,1,0,1,0,3,30,4
+57000,1,63,Democrat,1,College degree,White,Widowed,Real and Caused by People,0,5,0,0,0,1,3,8,5
+47000,1,44,Independent,3,High school,White,Married,Real and Caused by People,1,4,2,1,NaN,0,1,75,1
+39000,1,57,Democrat,4,College degree,White,Married,Real and Caused by People,0,4,12,1,1,0,1,2,1
+5000,1,62,Democrat,1,College degree,White,Single,NaN,0,5,6,0,NaN,0,3,80,5
+84000,0,62,Republican,2,College degree,White,Divorced,Real and Caused by People,1,5,6,0,0,0,3,5,4
+104000,0,46,Independent,1,Graduate degree,White,Married,Real and Caused by People,1,5,24,0,1,0,3,10,5
+8000,1,60,NaN,1,Some college,White,Divorced,Real and Caused by People,5,5,0,1,NaN,0,3,NaN,5
+23000,1,62,Democrat,3,High school,Native American,Married,Real but not Caused by People,1,5,40,0,1,1,1,25,1
+55000,1,40,Republican,4,College degree,White,Married,Not Real At All,0,5,15,0,0,0,1,10,2
+80000,1,48,Independent,1,College degree,Latino,Married,Real and Caused by People,2,NaN,5,1,1,0,3,NaN,5
+194000,1,54,Democrat,1,College degree,White,Married,Real and Caused by People,4,5,4,1,1,0,3,25,5
+82000,0,62,Republican,5,College degree,White,Married,Not Real At All,0,4,0,0,1,0,2,10,4
+22000,1,50,Democrat,3,High school,White,Married,Real and Caused by People,1,4,6,1,1,1,3,30,4
+54000,1,59,Democrat,4,Some college,White,Married,Real and Caused by People,1,2,25,1,1,0,NaN,NaN,4
+79000,1,30,Independent,5,College degree,White,Married,Not Real At All,1,5,5,1,NaN,0,NaN,NaN,5
+5000,1,60,Democrat,2,Some college,Black,Single,Real and Caused by People,3,4,2,0,0,NaN,NaN,35,NaN
+60000,0,70,Democrat,1,College degree,Black,Single,Real but not Caused by People,5,5,6,0,1,0,2,NaN,4
+39000,0,19,Independent,4,High school,White,In a relationship,Real and Caused by People,2,4,3,1,1,1,3,15,4
+58000,0,61,Independent,4,College degree,Black,Separated,Real but not Caused by People,0,4,0,1,0,0,2,2,4
+54000,1,57,Democrat,2,High school,White,Married,Not Real At All,0,5,0,0,1,0,2,10,4
+73000,0,36,NaN,3,College degree,White,Married,Real and Caused by People,0,5,12,0,0,0,2,10,5
+26000,1,63,Democrat,2,High school,White,Widowed,Real and Caused by People,0,5,5,1,1,0,3,1,5
+48000,1,63,Republican,NaN,College degree,White,Married,Not Real At All,0,5,30,0,1,NaN,NaN,NaN,4
+61000,1,55,Independent,1,High school,White,Separated,Real and Caused by People,0,5,1,0,1,0,2,50,4
+67000,1,56,Republican,4,College degree,White,Single,Real and Caused by People,0,4,1,1,0,0,3,5,4
+58000,0,54,NaN,4,NaN,White,NaN,Real and Caused by People,0,4,0,1,0,0,NaN,NaN,4
+NaN,1,50,Independent,1,College degree,Native American,Married,Real but not Caused by People,0,5,30,1,1,0,1,75,4
+NaN,0,65,Independent,2,Graduate degree,White,Married,Real but not Caused by People,5,5,10,0,1,0,3,5,4
+NaN,1,73,Democrat,NaN,College degree,Black,Widowed,Real but not Caused by People,2,4,200,1,1,0,3,5,5
+NaN,0,44,Independent,1,Some college,Black,Married,Real but not Caused by People,3,5,6,0,0,0,2,40,4
+NaN,0,65,Republican,5,Graduate degree,White,In a relationship,Real and Caused by People,0,5,7,0,0,NaN,3,NaN,5
+NaN,1,25,Independent,NaN,Some college,White,Single,Real and Caused by People,4,2,124,1,1,0,2,NaN,2
+NaN,0,53,Republican,1,College degree,Black,Separated,Real but not Caused by People,0,4,1,0,1,0,1,30,2
+NaN,0,30,Independent,3,College degree,Black,Married,Real and Caused by People,0,1,15,0,1,0,2,35,2
+NaN,0,73,Independent,5,Some college,Black,Widowed,Not Real At All,0,5,8,0,0,0,2,1,1
+NaN,1,56,Democrat,1,College degree,White,Married,Real and Caused by People,0,5,10,0,1,1,3,6,5
+NaN,1,54,Independent,5,Graduate degree,NaN,Married,Real but not Caused by People,0,5,5,0,1,NaN,1,NaN,2
+NaN,1,60,NaN,2,NaN,White,Separated,Real but not Caused by People,2,4,0,1,1,0,2,NaN,4
+NaN,1,19,Independent,2,Some college,White,Single,Real and Caused by People,1,2,5,1,1,1,3,NaN,5
+NaN,NaN,35,Democrat,1,Graduate degree,Asian,Married,Real and Caused by People,0,5,50,1,1,1,3,NaN,5
+NaN,1,31,NaN,4,College degree,Black,Single,Real but not Caused by People,1,4,10,0,1,1,1,50,1
+NaN,1,31,Independent,3,College degree,White,Single,Real and Caused by People,0,5,5,1,0,1,3,10,4
+NaN,0,62,Independent,2,High school,White,Single,Real and Caused by People,3,4,1,1,1,0,1,60,4
+NaN,0,75,Republican,5,High school,White,Married,Real but not Caused by People,NaN,4,20,0,1,1,2,5,4
+NaN,1,66,Democrat,1,College degree,White,Widowed,Real and Caused by People,0,5,30,0,0,0,2,7,5
+NaN,0,58,Independent,2,Graduate degree,White,Single,Real and Caused by People,0,2,4,0,0,1,2,7,5
+NaN,1,47,NaN,1,Some college,White,In a relationship,Real and Caused by People,4,4,20,1,1,1,3,8,4
+NaN,0,18,Republican,5,High school,White,Single,Not Real At All,2,5,4,1,0,1,2,12,4
+NaN,0,34,Republican,5,High school,White,Widowed,Not Real At All,5,1,1,1,NaN,1,1,69,1
+NaN,1,63,Democrat,1,College degree,Black,Married,Real and Caused by People,4,5,6,0,1,1,2,NaN,4
+NaN,0,28,Republican,5,Some college,White,In a relationship,Real and Caused by People,2,4,0,0,1,1,2,NaN,4
+NaN,0,36,Democrat,1,Graduate degree,White,Married,Real and Caused by People,2,4,8,1,0,0,3,5,5
+NaN,0,32,Independent,4,High school,White,Single,Real and Caused by People,4,5,18,0,1,1,2,30,4
+NaN,0,55,Independent,4,Some college,White,Divorced,Real and Caused by People,1,2,0,1,1,0,2,30,4
+NaN,0,72,Republican,5,College degree,White,Married,Real and Caused by People,0,4,6,1,1,1,2,25,5
+NaN,0,31,Democrat,1,College degree,White,Single,Real and Caused by People,2,5,20,0,0,1,3,1,5
+NaN,1,41,Democrat,1,High school,Latino,Married,Real and Caused by People,2,2,0,0,1,0,3,20,4
+NaN,0,48,NaN,5,High school,White,In a relationship,Not Real At All,2,4,2,1,1,0,2,35,4
+NaN,1,86,Independent,1,College degree,White,Married,NaN,NaN,5,2,0,1,1,NaN,NaN,4
+NaN,1,53,Democrat,1,College degree,White,Married,Real and Caused by People,0,5,50,0,NaN,1,3,3,5
+30000,1,74,Independent,NaN,High school,White,Divorced,Real and Caused by People,0,5,50,0,1,0,2,30,4
+52000,1,33,NaN,5,College degree,White,Married,Not Real At All,2,5,1000,1,NaN,0,1,60,1
+41000,1,78,Republican,4,Some college,White,Widowed,Not Real At All,0,4,0,0,1,1,2,NaN,4
+106000,0,45,NaN,5,College degree,White,Married,Not Real At All,2,4,20,0,0,0,3,5,4
+21000,0,41,Democrat,4,High school,White,Divorced,Real and Caused by People,0,4,1,0,0,0,2,100,2
+107000,0,76,Independent,1,College degree,White,Married,Real and Caused by People,2,5,3,0,0,1,3,1,NaN
+53000,1,65,Republican,5,College degree,White,Married,Real and Caused by People,0,5,3,0,1,0,2,45,4
+26000,0,48,Independent,1,Graduate degree,White,Married,Real and Caused by People,2,4,15,1,0,0,3,1,5
+126000,0,46,Independent,3,Some college,White,Married,Real but not Caused by People,3,5,1,0,0,NaN,3,10,5
+179000,0,50,Republican,5,Graduate degree,Latino,Married,Not Real At All,5,5,10,0,0,1,3,2,1
+122000,1,48,Republican,5,College degree,White,Married,Not Real At All,2,4,20,0,0,1,1,30,2
+113000,1,54,Independent,1,Graduate degree,White,Divorced,Real and Caused by People,0,5,65,1,0,0,3,10,5
+140000,0,21,Independent,2,Some college,Black,Single,Real and Caused by People,3,4,3,0,1,0,3,20,4
+207000,1,48,Independent,2,Graduate degree,White,Married,Real and Caused by People,1,5,150,0,0,0,2,20,2
+182000,1,42,Independent,2,Graduate degree,White,Married,Real and Caused by People,1,5,12,1,0,0,3,10,4
+128000,1,50,Independent,5,Some college,White,Married,Real and Caused by People,3,5,5,1,0,0,NaN,NaN,NaN
+71000,1,40,Independent,1,Graduate degree,White,Married,Real and Caused by People,0,5,60,0,0,1,3,5,5
+70000,0,52,Republican,5,Some college,White,Married,NaN,0,4,0,0,0,NaN,NaN,NaN,1
+NaN,0,37,Independent,1,College degree,White,Divorced,Real and Caused by People,2,5,15,0,0,0,3,15,5
+NaN,1,45,Independent,2,College degree,White,Married,Real and Caused by People,2,5,1,1,0,1,3,20,4
+NaN,1,27,NaN,3,High school,White,In a relationship,Real and Caused by People,NaN,5,3,0,1,0,2,NaN,NaN
+NaN,1,43,Independent,1,Some college,White,Married,Real and Caused by People,0,4,12,1,0,1,3,4,5
+NaN,0,28,Republican,3,Graduate degree,White,Single,Real but not Caused by People,1,5,16,0,1,1,3,10,4
+NaN,1,80,Democrat,1,NaN,White,Separated,Not Real At All,NaN,5,25,0,1,0,2,NaN,5
+NaN,0,68,Republican,5,Graduate degree,White,Married,Real but not Caused by People,0,4,3,0,0,0,1,2,2
+NaN,0,36,NaN,NaN,Graduate degree,White,Married,Real and Caused by People,4,2,12,0,1,1,NaN,NaN,4
+NaN,1,53,Republican,4,Graduate degree,White,Married,Real and Caused by People,0,5,35,1,0,1,2,20,5
+NaN,0,38,NaN,2,NaN,White,Married,NaN,NaN,5,10,1,NaN,1,1,NaN,4
+NaN,1,37,Republican,5,College degree,White,Married,Real but not Caused by People,1,2,10,0,1,NaN,2,22,1
+NaN,1,42,Independent,1,Some college,White,Divorced,Real and Caused by People,4,5,20,1,NaN,1,3,10,5
+NaN,0,24,NaN,5,Some college,Native American,Single,Real and Caused by People,2,3,NaN,0,1,0,NaN,NaN,3
+NaN,1,50,Democrat,1,College degree,Native American,Married,Not Real At All,NaN,5,2,1,NaN,1,3,NaN,1
+NaN,0,53,Republican,4,Graduate degree,White,Married,Real and Caused by People,0,5,7,0,0,NaN,2,3,5
+NaN,1,30,Independent,2,NaN,Asian,In a relationship,NaN,1,5,20,0,0,1,2,15,5
+NaN,1,20,Democrat,1,Some college,Black,Single,Real and Caused by People,0,5,10,1,0,1,2,10,4
+NaN,0,67,Republican,5,Some college,White,In a relationship,Not Real At All,0,NaN,4,0,1,1,2,NaN,4
+77000,0,18,Republican,5,High school,White,In a relationship,Real but not Caused by People,1,5,3,1,0,0,2,35,4
+NaN,1,34,Democrat,1,Graduate degree,Asian,Married,Real and Caused by People,0,5,60,0,0,0,3,13,5
+NaN,0,60,Democrat,2,High school,Black,Single,Real and Caused by People,1,5,20,0,1,0,2,NaN,5
+NaN,0,25,NaN,NaN,Some college,Latino,Married,Real and Caused by People,3,NaN,5,0,0,NaN,NaN,NaN,NaN
+NaN,0,56,Republican,5,Graduate degree,White,Married,Real but not Caused by People,2,2,4,1,0,0,1,2,1
+NaN,0,50,Republican,5,High school,White,In a relationship,Not Real At All,0,4,1,0,0,0,1,5,1
+96000,1,61,Democrat,1,College degree,White,Married,Real and Caused by People,2,5,2,1,1,0,NaN,NaN,5
+NaN,1,34,Independent,4,Some college,White,Divorced,Real and Caused by People,3,5,0,1,1,1,NaN,5,5
+NaN,1,55,Republican,5,Graduate degree,White,Widowed,Not Real At All,0,4,5,0,0,NaN,NaN,18,2
+NaN,0,25,Independent,5,High school,White,Married,Real and Caused by People,0,5,0,1,NaN,0,NaN,NaN,4
+NaN,1,19,NaN,1,Some college,White,Single,Real and Caused by People,2,5,2,1,1,0,2,60,4
+NaN,0,70,Independent,4,NaN,White,Married,Not Real At All,1,NaN,1,0,1,NaN,1,0,1
+NaN,0,28,Independent,2,Some college,White,Married,Real and Caused by People,0,4,1,1,1,1,2,85,4
+NaN,0,35,Independent,4,Graduate degree,White,Married,Real but not Caused by People,1,5,10,1,0,1,3,1,4
+NaN,NaN,27,Independent,1,College degree,White,In a relationship,Real and Caused by People,0,5,8,0,0,1,1,40,5
+NaN,1,48,Independent,5,Some college,White,Single,Not Real At All,0,4,NaN,1,NaN,NaN,NaN,NaN,NaN
+NaN,1,50,NaN,1,College degree,Native American,In a relationship,Real and Caused by People,0,5,50,1,1,0,3,NaN,4
+NaN,0,30,Independent,2,Graduate degree,Black,Married,Real and Caused by People,1,5,50,0,1,0,2,5,5
+NaN,1,35,Democrat,1,NaN,Black,Separated,Real and Caused by People,5,5,8,1,0,1,3,20,5
+NaN,1,22,Democrat,2,College degree,White,In a relationship,Real and Caused by People,4,5,6,1,1,1,2,10,5
+NaN,1,40,Democrat,1,College degree,White,Married,Real and Caused by People,0,5,20,1,1,0,3,5,5
+NaN,1,70,NaN,5,High school,White,Widowed,Real but not Caused by People,0,4,10,0,1,0,1,NaN,4
+NaN,0,46,Independent,1,College degree,White,Married,Real and Caused by People,3,4,24,1,1,1,3,9,5
+NaN,0,42,Independent,1,Some college,Black,Divorced,Real and Caused by People,1,5,6,0,1,0,NaN,NaN,4
+NaN,0,36,NaN,5,College degree,White,Married,Real but not Caused by People,4,3,15,NaN,0,1,3,1,4
+NaN,1,66,NaN,NaN,College degree,Asian,Married,Real and Caused by People,0,4,NaN,NaN,1,0,NaN,NaN,5
+NaN,1,71,Democrat,1,Some college,White,Divorced,Real and Caused by People,NaN,4,100,1,1,0,1,60,1
+NaN,0,25,Independent,NaN,Graduate degree,Asian,In a relationship,Real and Caused by People,0,5,5,0,1,0,1,NaN,4
+NaN,0,69,Republican,5,Some college,White,Married,Real but not Caused by People,0,5,2,0,NaN,1,2,5,4
+NaN,1,29,Independent,NaN,College degree,Native American,Single,Real and Caused by People,2,5,20,0,1,1,3,30,4
+57000,1,60,Republican,5,College degree,White,Married,Real and Caused by People,2,4,15,1,1,0,2,20,4
+NaN,1,70,Democrat,1,College degree,Black,Married,Real and Caused by People,0,2,2,0,0,0,2,30,1
+101000,0,45,Independent,4,College degree,Latino,Married,Real but not Caused by People,2,5,2,0,1,0,3,5,4
+152000,0,30,Republican,3,College degree,White,Married,Real but not Caused by People,3,5,25,0,NaN,0,1,5,4
+35000,0,63,Republican,5,Graduate degree,White,Married,Real but not Caused by People,1,4,24,0,0,1,2,5,1
+109000,0,51,Democrat,1,College degree,White,Married,Real and Caused by People,0,5,3,0,1,1,3,1,5
+87000,0,56,Republican,5,High school,White,Married,Real and Caused by People,0,5,3,0,NaN,0,2,40,5
+79000,1,62,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,5,1,0,0,3,10,4
+73000,1,46,Democrat,NaN,Some college,White,Married,NaN,0,2,0,1,1,0,NaN,10,5
+89000,1,83,NaN,5,High school,White,Widowed,Not Real At All,0,NaN,12,0,1,0,NaN,NaN,NaN
+250000,0,48,Democrat,1,College degree,White,Married,Real and Caused by People,3,5,3,0,0,1,3,5,5
+93000,1,54,Independent,1,Some college,Latino,Married,Real and Caused by People,2,5,15,1,NaN,1,3,NaN,4
+21000,1,64,Democrat,NaN,College degree,White,Single,Real but not Caused by People,3,5,0,0,NaN,0,2,25,5
+80000,1,62,Republican,5,College degree,White,Married,Real and Caused by People,0,5,125,0,1,1,3,20,4
+30000,0,68,NaN,1,Some college,NaN,Widowed,NaN,0,NaN,NaN,0,1,NaN,3,NaN,NaN
+73000,0,40,NaN,1,College degree,NaN,Single,Real but not Caused by People,NaN,1,10,0,1,1,3,NaN,5
+133000,0,53,Independent,1,College degree,White,Married,NaN,1,5,3,0,0,0,3,1,5
+74000,1,85,Democrat,NaN,Graduate degree,White,Widowed,Not Real At All,0,4,5,0,1,0,1,50,4
+67000,0,55,Democrat,4,Some college,White,Married,Real but not Caused by People,2,5,0,0,1,1,3,33,4
+NaN,1,52,Democrat,1,College degree,White,Single,Real and Caused by People,0,5,3,1,0,0,3,NaN,5
+NaN,0,68,Republican,5,College degree,White,Married,Real but not Caused by People,2,5,5,0,0,NaN,3,1,NaN
+NaN,1,59,Democrat,1,College degree,White,Married,Real and Caused by People,0,5,20,0,1,0,3,10,5
+NaN,1,25,NaN,1,High school,NaN,Single,Real and Caused by People,3,4,50,1,1,0,2,NaN,5
+NaN,1,57,Republican,4,Some college,White,Married,Real and Caused by People,0,5,60,1,1,0,3,NaN,4
+NaN,0,72,Independent,5,High school,White,Widowed,Real and Caused by People,0,5,20,0,0,0,2,15,1
+NaN,0,66,NaN,1,College degree,Black,Married,Real and Caused by People,2,4,3,1,1,1,2,2,5
+NaN,0,49,Independent,1,Some college,White,Divorced,Real and Caused by People,1,5,20,0,0,0,3,2,5
+NaN,0,44,NaN,3,High school,White,Single,NaN,5,4,NaN,0,0,1,3,5,3
+NaN,0,58,Republican,5,High school,White,Married,Not Real At All,0,5,0,0,0,0,2,35,2
+NaN,0,55,Democrat,1,High school,Black,Single,Real and Caused by People,3,5,15,0,1,0,3,10,5
+NaN,0,42,Republican,4,High school,White,In a relationship,Not Real At All,2,5,2,1,1,0,2,75,5
+NaN,NaN,34,Independent,NaN,Graduate degree,NaN,NaN,Real and Caused by People,1,5,30,0,0,1,NaN,NaN,5
+NaN,1,47,Independent,5,High school,White,In a relationship,NaN,3,4,0,0,1,1,1,25,1
+NaN,1,38,Democrat,NaN,College degree,White,Single,Real and Caused by People,2,4,0,1,NaN,1,2,NaN,5
+NaN,0,31,Democrat,2,High school,Black,Single,Real but not Caused by People,3,5,2,1,1,0,3,15,2
+NaN,0,49,Democrat,5,Some college,White,Married,Real but not Caused by People,0,2,10,0,1,0,2,50,5
+NaN,0,52,NaN,3,Some college,Native American,Single,Not Real At All,5,4,2,0,1,0,1,50,1
+NaN,1,63,Independent,1,Graduate degree,White,Single,NaN,0,5,50,0,0,1,3,10,5
+NaN,0,26,Democrat,2,High school,Latino,In a relationship,Real and Caused by People,2,5,50,1,1,0,2,NaN,4
+NaN,0,43,Independent,1,College degree,White,Married,Real and Caused by People,0,5,20,0,0,0,3,1,5
+NaN,0,19,Independent,2,Some college,Black,Single,Real and Caused by People,1,5,5,0,1,1,3,5,4
+NaN,0,22,NaN,NaN,NaN,White,Single,Not Real At All,NaN,1,0,0,NaN,1,NaN,NaN,1
+NaN,0,39,Independent,1,College degree,Black,Married,Real and Caused by People,3,4,5,0,0,0,2,NaN,5
+NaN,0,65,Independent,4,Some college,White,Married,Not Real At All,0,4,0,1,1,1,2,0,1
+NaN,0,35,NaN,NaN,Graduate degree,White,Married,NaN,NaN,NaN,8,1,1,NaN,NaN,NaN,NaN
+NaN,0,40,NaN,NaN,College degree,Black,Married,Real and Caused by People,NaN,5,10,0,1,0,1,NaN,NaN
+77000,1,18,NaN,NaN,Some college,White,Single,Real but not Caused by People,2,5,25,0,0,0,2,20,4
+112000,1,59,Democrat,1,Graduate degree,Asian,Married,Real and Caused by People,0,5,2,0,0,0,NaN,NaN,4
+71000,1,58,NaN,NaN,Some college,Asian,Single,Real and Caused by People,0,5,3,0,1,0,NaN,NaN,NaN
+52000,1,61,Independent,2,Some college,White,Widowed,Real and Caused by People,0,5,2,1,1,0,NaN,5,4
+22000,1,64,Independent,1,Some college,White,Divorced,Real and Caused by People,0,5,2,NaN,1,1,2,75,5
+136000,1,64,Republican,NaN,College degree,White,Married,Real and Caused by People,0,5,5,0,1,0,NaN,NaN,5
+167000,0,65,Independent,1,College degree,White,Married,Real and Caused by People,0,NaN,12,0,1,NaN,3,NaN,5
+76000,0,60,Independent,5,Graduate degree,NaN,Divorced,Not Real At All,0,4,150,1,0,0,1,NaN,2
+32000,1,60,Democrat,1,College degree,Black,In a relationship,Real and Caused by People,0,5,6,0,1,0,2,60,4
+110000,1,44,Republican,4,College degree,White,Married,Real and Caused by People,0,5,3,0,1,1,2,80,1
+80000,1,22,NaN,NaN,College degree,White,In a relationship,NaN,0,5,20,1,1,0,2,NaN,4
+114000,0,56,Independent,5,Graduate degree,White,Married,Real but not Caused by People,1,5,2,0,0,1,2,20,4
+236000,0,52,Independent,1,Graduate degree,White,Married,Real and Caused by People,1,5,6,NaN,0,1,3,2,5
+48000,0,64,Democrat,1,High school,Black,Married,Real and Caused by People,NaN,5,NaN,0,NaN,0,2,40,5
+25000,1,45,Democrat,1,High school,Latino,Single,Real and Caused by People,0,1,2,1,1,1,NaN,NaN,2
+143000,0,52,NaN,5,Graduate degree,NaN,NaN,NaN,5,5,20,0,1,1,3,10,NaN
+17000,1,63,Independent,1,Some college,Black,Divorced,NaN,0,5,10,0,1,0,NaN,NaN,NaN
+138000,0,49,Democrat,4,College degree,White,Married,Real but not Caused by People,0,5,3,0,1,1,3,NaN,5
+100000,0,19,Independent,1,Some college,White,Single,Real and Caused by People,0,5,4,0,NaN,1,NaN,NaN,5
+104000,1,70,Democrat,1,College degree,White,Single,Real and Caused by People,5,5,60,1,0,1,3,3,5
+85000,1,60,Democrat,1,Graduate degree,Black,Single,Real but not Caused by People,0,5,50,0,1,0,1,40,4
+202000,0,40,Independent,1,Graduate degree,White,Married,Real and Caused by People,0,5,15,0,0,1,3,3,5
+41000,1,41,Independent,3,College degree,White,Married,Real and Caused by People,5,5,7,1,1,0,3,NaN,5
+65000,1,50,Independent,NaN,Some college,Black,Married,Real and Caused by People,2,5,0,0,1,0,3,90,4
+147000,0,64,Democrat,1,College degree,White,Married,Real and Caused by People,3,5,3,0,1,0,3,1,4
+19000,0,83,Republican,5,High school,White,Widowed,Real and Caused by People,NaN,NaN,3,1,1,0,3,30,NaN
+97000,1,53,Independent,5,College degree,Asian,Married,Real and Caused by People,5,1,1,1,0,0,2,10,1
+105000,0,68,Independent,NaN,Graduate degree,White,Single,Real but not Caused by People,3,1,4,1,0,0,2,3,2
+132000,0,60,Independent,1,Some college,NaN,Married,Real and Caused by People,0,5,6,0,1,0,2,10,5
+153000,1,58,Republican,5,Graduate degree,White,Married,Real and Caused by People,0,2,10,1,1,0,2,30,4
+17000,1,53,Democrat,2,Some college,Black,Married,Real and Caused by People,2,4,2,0,NaN,0,3,10,2
+45000,1,26,Independent,2,High school,Latino,In a relationship,Not Real At All,3,5,3,0,0,0,2,60,4
+35000,0,58,Democrat,1,High school,Black,In a relationship,Not Real At All,0,1,0,1,0,1,1,NaN,4
+90000,1,37,Independent,1,College degree,White,Married,Real but not Caused by People,0,5,120,0,1,1,3,NaN,5
+62000,0,52,Independent,5,Graduate degree,White,Married,Not Real At All,1,5,4,0,1,0,2,15,NaN
+71000,1,56,NaN,1,High school,White,Married,Real and Caused by People,2,5,3,0,1,1,3,50,5
+118000,0,50,Republican,5,Some college,White,Married,Not Real At All,4,5,0,0,0,1,NaN,NaN,2
+159000,1,47,Democrat,1,College degree,White,Married,Real and Caused by People,2,5,4,1,0,0,3,3,5
+5000,1,55,Republican,5,High school,White,In a relationship,Real but not Caused by People,4,5,5,1,1,1,3,3,4
+436000,0,55,Independent,2,College degree,Asian,Married,Real and Caused by People,2,5,3,1,1,1,3,10,4
+97000,1,61,Republican,1,College degree,White,Married,Real and Caused by People,0,5,10,0,0,0,3,5,5
+22000,0,64,NaN,1,NaN,Native American,Widowed,Real and Caused by People,NaN,NaN,4,NaN,0,1,3,20,4
+19000,1,54,Republican,5,Some college,White,In a relationship,Real and Caused by People,1,1,15,1,1,0,NaN,NaN,NaN
+200000,1,52,NaN,2,Some college,White,Married,Real but not Caused by People,2,5,200,NaN,0,0,3,7,5
+51000,1,71,Republican,5,Some college,White,Married,Real but not Caused by People,0,2,16,1,0,0,1,NaN,1
+7000,1,58,Republican,5,High school,White,Single,Real but not Caused by People,0,4,3,0,1,0,1,NaN,2
+18000,1,40,Democrat,1,Some college,White,Divorced,Not Real At All,NaN,1,100,0,1,0,1,20,1
+56000,1,59,Democrat,1,High school,White,Married,Real and Caused by People,0,5,0,0,1,0,3,20,5
+140000,1,42,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,225,0,0,NaN,3,NaN,5
+31000,1,38,Independent,4,College degree,White,Single,Real and Caused by People,1,5,20,1,1,0,3,1,4
+93000,1,64,Democrat,1,Some college,White,Married,Real and Caused by People,0,5,5,NaN,NaN,0,2,NaN,4
+32000,1,59,Democrat,1,Graduate degree,Latino,Widowed,Real and Caused by People,1,5,6,0,0,1,3,1,5
+59000,1,29,Democrat,1,Some college,White,Single,Real and Caused by People,0,5,3,1,NaN,0,NaN,NaN,NaN
+150000,0,65,Republican,1,High school,White,Married,Not Real At All,0,4,2,0,1,1,1,10,2
+132000,0,52,Republican,5,Some college,White,Married,Not Real At All,0,5,2,1,1,1,3,30,4
+172000,0,40,NaN,5,High school,White,Married,Not Real At All,2,4,13,0,1,0,1,NaN,1
+25000,1,52,Independent,1,High school,White,Divorced,Not Real At All,0,5,0,0,1,0,3,0,2
+31000,0,56,Democrat,1,Some college,White,In a relationship,Real and Caused by People,NaN,5,NaN,1,NaN,0,3,NaN,5
+54000,0,60,Republican,4,High school,White,Married,NaN,0,5,0,0,1,0,2,NaN,NaN
+199000,0,63,Democrat,1,Graduate degree,White,Married,Real but not Caused by People,NaN,5,12,0,0,0,3,10,5
+55000,1,59,Democrat,1,College degree,White,Single,Real and Caused by People,0,5,3,1,1,0,3,30,5
+44000,0,56,NaN,4,Graduate degree,NaN,Married,Not Real At All,0,1,20,0,0,1,1,30,1
+51000,0,61,Republican,5,Some college,White,Married,Real but not Caused by People,2,4,17,0,1,0,2,3,3
+98000,0,57,Independent,1,Some college,White,Married,Real and Caused by People,NaN,5,2,0,0,0,3,4,5
+39000,1,57,Independent,1,Graduate degree,White,In a relationship,Real and Caused by People,1,4,15,0,1,1,3,35,5
+26000,0,49,Independent,4,College degree,NaN,Married,Not Real At All,0,5,0,0,0,1,2,20,4
+70000,1,72,Republican,5,High school,White,Widowed,Not Real At All,0,4,2,NaN,0,0,2,NaN,2
+174000,1,68,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,0,0,1,1,2,45,5
+NaN,1,60,Republican,5,Graduate degree,White,Married,Not Real At All,0,5,10,0,0,1,3,10,2
+NaN,1,63,Independent,1,College degree,White,Married,Real and Caused by People,NaN,4,30,0,0,1,2,3,5
+NaN,0,46,NaN,5,Some college,White,Married,Not Real At All,1,5,25,0,0,NaN,1,40,2
+NaN,0,39,Independent,1,Graduate degree,Native American,Single,Real and Caused by People,NaN,2,1000,1,1,0,1,90,2
+NaN,0,50,NaN,4,High school,White,Married,Real and Caused by People,0,4,0,0,0,0,1,20,4
+NaN,0,88,Independent,3,College degree,White,Married,Real but not Caused by People,0,5,0,0,1,0,2,NaN,5
+NaN,0,31,Republican,4,College degree,Asian,In a relationship,Real but not Caused by People,1,5,4,0,0,1,3,1,4
+NaN,0,45,NaN,3,High school,Black,Single,NaN,0,5,0,0,0,0,3,20,NaN
+NaN,NaN,30,Democrat,5,High school,Black,Single,NaN,NaN,5,2,1,NaN,0,1,NaN,5
+NaN,1,64,NaN,NaN,High school,White,Married,NaN,0,5,20,0,1,0,NaN,NaN,4
+NaN,1,32,NaN,NaN,Some college,White,Single,NaN,NaN,4,30,0,1,1,NaN,NaN,NaN
+NaN,1,42,Independent,5,College degree,White,In a relationship,Real but not Caused by People,0,4,3,0,1,0,2,20,4
+NaN,0,70,Independent,5,Some college,White,Married,Not Real At All,0,5,4,0,0,0,2,20,4
+NaN,1,69,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,0,0,1,0,3,5,5
+NaN,0,51,Independent,5,Some college,White,Married,Real but not Caused by People,4,5,0,1,1,1,2,4,4
+NaN,0,64,Independent,5,Some college,White,Married,Not Real At All,0,3,3,1,1,1,1,20,1
+NaN,1,49,NaN,NaN,Graduate degree,Black,Divorced,Real but not Caused by People,0,2,3,0,1,0,2,30,4
+NaN,1,34,Democrat,1,College degree,Black,Single,Real and Caused by People,3,4,8,1,1,0,1,20,2
+NaN,1,50,Republican,3,College degree,White,Married,Not Real At All,NaN,4,50,0,0,1,NaN,8,4
+NaN,1,65,Independent,5,Graduate degree,White,Widowed,Real and Caused by People,0,4,5,0,1,1,3,10,4
+NaN,0,74,Independent,1,Graduate degree,White,Married,Real and Caused by People,0,5,20,0,1,1,3,5,5
+NaN,0,49,Republican,5,Some college,White,Married,Real but not Caused by People,0,4,1,0,1,1,2,10,4
+NaN,1,25,Republican,1,Some college,Latino,Single,Not Real At All,5,2,0,1,1,1,1,70,2
+NaN,1,22,NaN,1,Graduate degree,Latino,Single,Real and Caused by People,0,1,40,0,0,0,2,50,2
+NaN,1,67,Democrat,2,High school,Black,Widowed,Real and Caused by People,3,5,50,0,0,0,2,10,5
+NaN,0,25,Democrat,1,College degree,White,Single,Real and Caused by People,1,5,5,0,1,1,3,5.5,5
+NaN,0,76,Independent,1,NaN,White,Married,Real and Caused by People,0,5,0,0,1,0,3,0,5
+NaN,0,30,Independent,4,Some college,White,Married,Real and Caused by People,3,5,0,0,0,1,2,35,4
+NaN,0,21,Independent,2,College degree,Black,In a relationship,Real and Caused by People,2,5,60,0,1,0,3,17,2
+NaN,1,38,Republican,5,College degree,Black,Single,Real and Caused by People,2,5,13,0,1,0,2,2,5
+100000,1,59,Republican,4,Graduate degree,White,Married,Real and Caused by People,1,5,3,1,0,0,2,10,2
+NaN,0,52,Republican,5,High school,White,In a relationship,Not Real At All,3,5,25,1,1,0,2,6,1
+NaN,1,21,Democrat,1,Some college,Latino,Single,Real and Caused by People,2,3,0,0,0,1,2,NaN,3
+NaN,0,38,Democrat,1,College degree,Latino,Single,Real and Caused by People,0,5,0,0,1,1,3,1,5
+NaN,0,53,Independent,4,Some college,White,Married,Real and Caused by People,2,5,3,0,0,1,3,5,4
+NaN,1,51,Independent,2,College degree,White,In a relationship,Real and Caused by People,2,5,2,0,0,1,2,10,4
+NaN,0,45,Independent,3,Some college,White,Single,Not Real At All,0,5,28,0,1,0,1,20,3
+NaN,1,40,Democrat,2,Graduate degree,White,Married,Real and Caused by People,0,5,5,0,1,0,3,5,5
+NaN,0,70,Independent,1,College degree,Black,Married,Real and Caused by People,3,2,1,0,1,0,2,30,4
+NaN,0,58,Democrat,1,Graduate degree,White,Single,Real and Caused by People,1,5,3,0,0,NaN,3,5,5
+NaN,1,42,Independent,2,College degree,White,Married,Real and Caused by People,1,5,5,0,1,NaN,3,10,5
+NaN,1,36,Democrat,1,Graduate degree,Latino,In a relationship,Real and Caused by People,1,4,3,1,0,1,1,18,4
+NaN,1,40,Independent,NaN,College degree,White,Married,Real and Caused by People,0,5,100,0,1,0,NaN,1,4
+NaN,1,24,Independent,NaN,College degree,White,In a relationship,Real and Caused by People,2,5,10,1,0,0,3,10,4
+NaN,0,75,Democrat,1,College degree,Black,Widowed,Real and Caused by People,0,5,6,0,0,0,3,6,4
+NaN,1,68,Republican,4,Some college,White,Widowed,Real but not Caused by People,0,1,250,0,1,0,2,20,4
+132000,0,57,Independent,5,College degree,White,Married,Real but not Caused by People,0,5,4,0,0,0,2,30,4
+48000,0,64,Republican,5,Graduate degree,Asian,Married,Not Real At All,3,4,0,1,0,1,2,2,4
+92000,1,56,Independent,1,Graduate degree,White,Married,Real and Caused by People,0,5,12,1,0,0,3,20,4
+25000,1,33,Democrat,2,Graduate degree,Black,Single,Real but not Caused by People,1,5,12,0,1,1,2,30,3
+22000,1,40,NaN,4,Some college,White,Married,NaN,5,5,5,1,1,1,3,50,5
+57000,1,57,Republican,5,Some college,White,Married,Real but not Caused by People,1,5,56,1,0,1,1,NaN,4
+170000,0,63,Independent,2,College degree,White,Married,Real but not Caused by People,0,4,3,0,1,1,2,5,2
+92000,1,57,Independent,4,Some college,White,Married,Real and Caused by People,0,5,52,0,1,0,3,30,5
+91000,1,48,Independent,4,College degree,White,Divorced,Real and Caused by People,0,5,12,1,0,1,2,10,4
+10000,1,55,Independent,3,College degree,NaN,Married,Real and Caused by People,4,4,6,0,1,0,3,5,4
+48000,1,60,Independent,5,Some college,White,Married,Not Real At All,0,5,40,1,1,0,1,30,4
+105000,1,59,Independent,5,High school,White,Divorced,Real and Caused by People,0,5,0,1,1,0,2,4,4
+52000,0,51,Democrat,1,Graduate degree,White,Married,Real and Caused by People,1,5,4,1,1,NaN,3,4,5
+90000,1,64,Republican,1,College degree,White,Married,Real and Caused by People,0,5,3,1,1,0,3,NaN,5
+39000,1,75,Democrat,1,High school,Black,Divorced,Real and Caused by People,0,1,0,0,1,0,1,NaN,1
+120000,0,53,Democrat,1,High school,White,Married,Real and Caused by People,0,5,2,1,1,1,2,1,5
+34000,1,65,NaN,5,High school,White,Single,Real but not Caused by People,1,NaN,0,0,1,0,1,60,2
+180000,1,40,Republican,5,College degree,White,Married,Not Real At All,0,4,0,0,1,0,1,30,2
+150000,0,45,Republican,4,College degree,Black,Married,Not Real At All,0,5,0,0,1,1,NaN,NaN,2
+164000,1,26,Democrat,1,High school,White,Single,Real and Caused by People,1,5,15,0,0,1,3,40,5
+83000,0,64,Independent,4,College degree,White,Married,Real and Caused by People,0,5,4,0,1,0,2,5,4
+386000,NaN,36,Independent,5,Graduate degree,Black,Married,Not Real At All,0,5,5,NaN,0,0,NaN,11,2
+79000,0,60,Independent,1,Some college,White,Married,Real and Caused by People,5,4,3,1,1,0,2,15,5
+32000,0,64,Independent,1,College degree,White,Separated,Real and Caused by People,0,5,6,0,0,NaN,3,NaN,4
+327000,1,55,Independent,1,College degree,White,Married,Real and Caused by People,0,5,2,0,1,0,3,5,4
+62000,1,62,Republican,5,College degree,White,Married,Real but not Caused by People,0,5,5,0,1,0,3,40,2
+180000,1,64,Republican,4,Some college,White,Widowed,Real but not Caused by People,0,5,1,1,1,1,2,5,NaN
+70000,1,49,Independent,1,Some college,Black,In a relationship,Real but not Caused by People,4,5,0,1,1,1,2,85,5
+103000,1,58,Republican,5,Some college,White,Married,Not Real At All,0,1,50,1,1,1,2,5,2
+20000,1,60,NaN,5,High school,Native American,Married,Real and Caused by People,4,5,0,1,1,NaN,2,NaN,4
+57000,0,47,Independent,4,Graduate degree,White,Single,Real and Caused by People,1,5,5,0,0,0,3,3,5
+90000,1,55,NaN,NaN,NaN,White,Married,NaN,2,2,8,0,NaN,NaN,NaN,NaN,2
+78000,1,58,NaN,1,NaN,NaN,Married,Real and Caused by People,3,4,120,0,0,1,3,5,1
+132000,1,61,Democrat,1,College degree,White,Married,Real and Caused by People,0,4,6,0,0,NaN,3,10,5
+73000,0,61,Republican,3,Graduate degree,White,Married,Real and Caused by People,3,5,20,0,0,0,1,15,5
+42000,1,57,Republican,4,Graduate degree,White,Married,Not Real At All,0,5,30,1,1,NaN,2,2,4
+21000,1,69,Democrat,1,High school,Black,Separated,Real but not Caused by People,0,2,2,0,0,0,2,5,2
+163000,0,58,Independent,1,College degree,White,Married,Real and Caused by People,0,NaN,12,0,1,0,3,10,5
+25000,1,63,Independent,5,High school,White,Divorced,NaN,2,5,4,1,NaN,1,NaN,NaN,5
+92000,1,66,Republican,5,High school,White,In a relationship,Not Real At All,NaN,1,2,1,1,0,1,NaN,1
+88000,1,44,Independent,1,High school,White,Married,Real but not Caused by People,5,5,0,1,1,0,3,90,5
+22000,0,70,Independent,4,Graduate degree,White,In a relationship,Not Real At All,0,5,6,0,1,0,2,50,5
+43000,0,63,Democrat,1,College degree,White,Married,Real and Caused by People,0,2,5,0,0,0,2,5,5
+90000,0,60,Republican,5,College degree,NaN,Married,Not Real At All,2,4,15,0,1,NaN,2,NaN,1
+47000,1,60,Independent,1,High school,White,Single,Real and Caused by People,2,5,6,1,0,0,3,30,2
+120000,0,52,Independent,4,Graduate degree,NaN,Married,Real but not Caused by People,3,4,8,0,1,0,NaN,NaN,1
+10000,1,38,Independent,5,High school,Native American,Married,Real and Caused by People,0,5,4,1,1,0,3,NaN,2
+10000,1,61,Independent,1,Some college,White,In a relationship,Real and Caused by People,4,1,10,1,0,0,1,NaN,2
+55000,1,62,Independent,5,High school,White,Married,Real and Caused by People,4,4,10,NaN,1,0,2,NaN,4
+113000,0,40,Independent,5,Graduate degree,White,Married,Real and Caused by People,0,5,0,0,0,0,2,5,4
+137000,1,40,Republican,5,College degree,White,Married,Real and Caused by People,0,5,15,1,0,0,2,35,1
+9000,1,61,Republican,4,College degree,White,Married,Real but not Caused by People,3,5,25,1,1,1,3,15,4
+37000,1,68,Democrat,1,High school,White,Widowed,Real and Caused by People,0,5,1,0,1,0,2,NaN,4
+39000,1,32,Democrat,1,Some college,White,Married,Real and Caused by People,1,5,30,0,0,0,3,1,4
+13000,1,55,Republican,5,Some college,White,Married,Real but not Caused by People,2,4,0,1,1,0,2,20,4
+47000,1,58,Republican,4,High school,Black,Married,Real and Caused by People,0,2,0,0,1,0,2,75,2
+72000,0,60,Independent,5,Some college,White,Married,Not Real At All,1,4,40,0,0,NaN,2,5,2
+37000,0,58,Independent,5,College degree,White,Married,Not Real At All,3,5,60,1,1,0,2,10,4
+69000,0,55,Independent,5,Some college,Native American,Widowed,Not Real At All,4,NaN,7,0,1,1,1,12,1
+208000,0,55,Independent,5,Graduate degree,Latino,Single,Not Real At All,4,5,10,0,1,1,2,10,2
+75000,1,59,Republican,5,Some college,White,Married,Real and Caused by People,4,5,5,1,1,0,2,NaN,5
+30000,1,57,NaN,2,College degree,White,Divorced,Real and Caused by People,0,5,17,0,1,1,3,35,5
+23000,0,62,Democrat,1,High school,Black,Divorced,Real and Caused by People,3,5,5,0,0,0,2,70,5
+8000,0,34,Independent,1,Some college,White,Single,Real and Caused by People,0,5,3,0,1,1,3,15,1
+114000,0,40,Republican,4,Graduate degree,White,Married,Real but not Caused by People,0,5,150,0,0,0,2,1,5
+112000,1,33,Democrat,1,High school,Black,Single,NaN,NaN,NaN,0,1,NaN,0,NaN,NaN,NaN
+129000,1,45,Democrat,1,Some college,Latino,Married,Real and Caused by People,0,5,6,1,1,0,2,10,4
+94000,0,51,Democrat,1,High school,White,Married,Real and Caused by People,1,5,10,0,1,1,3,5,5
+129000,0,63,Republican,5,Graduate degree,White,Widowed,NaN,0,2,10,0,0,1,NaN,NaN,5
+177000,0,63,Republican,5,Some college,White,Divorced,Not Real At All,0,5,2,1,1,0,2,3,1
+30000,1,62,NaN,1,Some college,White,Married,Real and Caused by People,0,1,100,1,0,1,1,2,1
+12000,0,35,NaN,4,College degree,White,Divorced,Real and Caused by People,2,4,4,0,1,0,3,40,3
+135000,0,57,Democrat,1,College degree,White,Married,Real and Caused by People,0,5,3,0,1,NaN,3,5,5
+87000,0,50,Independent,4,High school,Black,Married,Not Real At All,1,2,6,1,1,1,3,10,4
+52000,0,65,Independent,2,College degree,White,Widowed,Real and Caused by People,0,NaN,2,0,1,0,3,NaN,5
+86000,0,55,NaN,1,High school,White,Single,Real and Caused by People,3,5,10,0,1,1,3,2,5
+93000,1,51,Independent,1,Graduate degree,White,Married,Real and Caused by People,5,5,3,1,1,0,3,20,5
+183000,1,80,Democrat,1,College degree,White,Widowed,Real and Caused by People,0,5,10,0,0,0,2,NaN,4
+169000,1,61,Independent,5,College degree,White,Married,Real and Caused by People,0,4,5,0,1,1,2,20,4
+13000,NaN,22,NaN,NaN,College degree,NaN,Married,Real and Caused by People,5,4,6,1,1,1,2,2,5
+102000,1,61,Democrat,1,Graduate degree,White,Single,Real and Caused by People,0,5,8,1,0,0,2,20,4
+71000,0,60,Independent,3,Some college,White,Married,Real and Caused by People,0,5,4,0,0,1,3,NaN,4
+101000,0,54,Republican,5,College degree,White,Married,Not Real At All,0,5,12,0,1,1,3,10,4
+198000,1,54,Democrat,1,College degree,White,Separated,Real and Caused by People,1,4,10,1,0,0,3,NaN,5
+153000,1,60,Republican,4,College degree,White,Married,Real and Caused by People,0,5,3,1,1,0,2,20,4
+43000,0,56,Democrat,1,High school,Latino,Single,Real and Caused by People,4,5,20,0,1,0,2,10,1
+5000,0,64,Democrat,2,High school,White,Single,Not Real At All,2,2,6,0,0,0,2,3,2
+61000,1,29,Democrat,1,College degree,Latino,Single,Real and Caused by People,0,1,0,0,1,1,1,25,2
+42000,1,20,Democrat,1,Some college,White,Single,Real and Caused by People,4,5,15,1,0,1,1,NaN,1
+65000,0,28,Democrat,4,Some college,Asian,Married,Real but not Caused by People,0,2,100,1,1,NaN,NaN,NaN,4
+203000,0,50,Republican,4,Graduate degree,White,Married,Real but not Caused by People,0,4,70,0,0,0,1,4,4
+168000,1,58,Independent,1,NaN,Latino,In a relationship,Real and Caused by People,0,4,4,1,0,1,2,40,4
+130000,1,36,Independent,1,Graduate degree,White,Married,Real and Caused by People,4,5,20,1,0,NaN,3,12,5
+NaN,0,43,Democrat,1,High school,Asian,Single,Not Real At All,5,5,0,0,1,0,2,5,1
+NaN,1,63,Republican,4,College degree,White,Widowed,Real and Caused by People,2,5,NaN,1,1,0,2,50,5
+NaN,0,45,Independent,4,College degree,White,Single,Real and Caused by People,NaN,4,2,1,1,1,3,NaN,4
+NaN,1,78,Independent,1,Some college,White,Widowed,Real and Caused by People,0,5,100,1,0,1,3,10,5
+NaN,0,18,Independent,1,High school,Latino,Single,Real and Caused by People,3,4,3,0,1,1,2,20,4
+NaN,1,68,Independent,4,Graduate degree,Native American,Widowed,Not Real At All,2,5,30,0,0,1,NaN,12,4
+105000,1,64,Republican,5,Graduate degree,White,Married,Real but not Caused by People,3,4,15,0,NaN,NaN,NaN,NaN,NaN
+NaN,0,71,Republican,5,College degree,White,Single,Not Real At All,4,5,4,0,0,0,1,NaN,1
+NaN,1,66,Democrat,1,Some college,White,Divorced,Real and Caused by People,0,5,5,1,0,0,3,12,5
+NaN,0,31,Independent,4,High school,Latino,Single,Not Real At All,3,4,1,1,1,0,1,5,2
+NaN,0,60,Republican,5,College degree,White,Married,Real but not Caused by People,0,5,5,0,0,1,2,4,4
+NaN,0,39,Independent,5,Graduate degree,White,Married,Not Real At All,1,1,1,1,1,1,2,10,1
+NaN,0,67,Independent,2,College degree,White,Widowed,Real and Caused by People,2,1,2,0,1,0,3,5,5
+NaN,0,20,Independent,4,Some college,Latino,Single,Real but not Caused by People,1,4,25,0,0,0,NaN,NaN,4
+NaN,1,57,Democrat,1,College degree,White,Divorced,Real and Caused by People,0,5,5,0,0,0,3,8,5
+NaN,0,29,Independent,5,High school,White,Married,Real but not Caused by People,0,5,0,1,1,1,2,3,1
+NaN,0,61,Independent,4,Some college,White,Married,Real but not Caused by People,0,4,7,1,1,0,NaN,NaN,1
+NaN,1,66,Democrat,1,College degree,White,Single,Real and Caused by People,0,5,3,0,1,0,NaN,5,5
+NaN,0,63,Independent,1,College degree,White,Married,Real and Caused by People,2,5,700,0,0,0,3,20,5
+NaN,1,62,Democrat,1,College degree,White,Married,Real and Caused by People,2,5,4,1,0,1,3,2,5
+NaN,1,60,Independent,5,High school,White,Divorced,Not Real At All,0,5,50,1,1,0,3,NaN,1
+NaN,0,21,Democrat,1,Graduate degree,Asian,Single,Real and Caused by People,3,5,17,0,0,NaN,3,5,4
+NaN,1,61,Republican,5,College degree,White,Married,Real but not Caused by People,5,5,15,1,NaN,NaN,3,10,4
+NaN,1,72,Independent,1,College degree,White,In a relationship,Real and Caused by People,0,5,4,0,1,NaN,3,NaN,5
+NaN,1,28,Republican,5,College degree,White,Married,Real but not Caused by People,5,5,15,1,0,1,3,5,5
+NaN,0,29,Independent,2,College degree,White,Single,Real and Caused by People,0,4,2,0,0,0,2,3,4
+NaN,0,33,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,4,0,NaN,0,3,3,5
+NaN,1,32,Independent,1,College degree,White,Married,Real and Caused by People,0,4,7,1,1,0,3,NaN,4
+NaN,1,51,Independent,4,High school,White,Single,Real and Caused by People,1,2,0,0,1,0,NaN,NaN,2
+NaN,0,41,Independent,5,High school,White,In a relationship,Not Real At All,4,1,0,1,0,0,2,0,1
+NaN,0,59,Republican,5,High school,White,Married,Not Real At All,0,5,1,0,1,0,1,5,3
+NaN,0,70,Republican,5,Graduate degree,NaN,Divorced,Real but not Caused by People,1,5,5,1,0,NaN,2,NaN,2
+NaN,1,65,Independent,5,Graduate degree,White,Married,Not Real At All,2,5,9,NaN,1,0,NaN,NaN,4
+NaN,1,60,Independent,5,Some college,Asian,Married,Not Real At All,2,1,14,1,0,0,1,3,2
+NaN,0,32,Independent,3,High school,Black,Married,Real and Caused by People,5,5,5,1,1,0,NaN,15,1
+NaN,0,36,Democrat,1,High school,White,Single,Real and Caused by People,3,5,3,0,0,0,3,1,5
+NaN,NaN,60,Independent,5,NaN,White,Single,Real and Caused by People,NaN,NaN,0,1,1,NaN,2,NaN,1
+NaN,1,61,Democrat,4,College degree,White,Married,Real and Caused by People,0,5,5,1,0,NaN,2,25,4
+NaN,0,23,Independent,1,High school,White,Single,Real and Caused by People,4,2,70,1,1,1,3,45,5
+NaN,1,55,Democrat,1,College degree,Black,Separated,Real and Caused by People,1,2,3,1,0,1,1,5,1
+NaN,1,58,Democrat,4,Some college,White,Widowed,Real and Caused by People,4,4,20,1,1,0,2,50,4
+NaN,0,24,Republican,5,Graduate degree,Latino,Single,Not Real At All,0,2,5,0,0,1,2,2,4
+NaN,1,34,NaN,NaN,College degree,Black,Married,Not Real At All,1,5,3,1,1,1,3,20,2
+NaN,1,77,NaN,NaN,College degree,White,Married,Real and Caused by People,0,1,2,0,NaN,1,NaN,NaN,4
+NaN,0,36,Independent,2,Some college,Black,Married,Real and Caused by People,NaN,2,5,1,0,0,3,50,4
+NaN,0,19,Republican,5,Graduate degree,White,Single,Real and Caused by People,0,5,5,1,0,1,2,10,5
+NaN,1,54,Democrat,5,Some college,White,Divorced,Real but not Caused by People,0,5,5,1,1,0,3,25,4
+NaN,1,23,Republican,NaN,Some college,White,In a relationship,Real and Caused by People,5,4,30,1,1,1,3,1,4
+NaN,1,19,Independent,2,Some college,Latino,In a relationship,Real and Caused by People,1,5,7,1,1,1,1,NaN,4
+NaN,0,67,Independent,5,College degree,Asian,Married,Real but not Caused by People,0,4,0,NaN,NaN,1,3,NaN,4
+NaN,1,38,Independent,1,Some college,White,Married,Real and Caused by People,1,4,12,0,0,1,3,1,4
+NaN,1,99,NaN,5,College degree,NaN,Single,Not Real At All,4,1,25,0,0,NaN,3,15,4
+NaN,0,25,Democrat,1,Graduate degree,White,In a relationship,Real and Caused by People,2,5,23,0,0,1,3,3,5
+NaN,1,42,Republican,5,College degree,White,Married,Real and Caused by People,3,1,6,1,1,0,3,10,2
+NaN,1,71,Democrat,1,Graduate degree,White,Widowed,Real and Caused by People,0,5,13,0,0,0,3,3,5
+NaN,0,48,NaN,1,Some college,White,Divorced,Real and Caused by People,3,5,1,0,1,0,3,3,5
+69000,0,62,Democrat,1,High school,White,Married,Real and Caused by People,0,5,4,0,1,0,NaN,NaN,4
+NaN,NaN,82,Independent,NaN,High school,NaN,Single,Real and Caused by People,NaN,4,NaN,1,NaN,NaN,NaN,NaN,NaN
+NaN,NaN,26,NaN,5,Graduate degree,Asian,Separated,Not Real At All,5,3,55,1,0,1,NaN,5,4
+NaN,1,65,Democrat,1,College degree,White,Divorced,Real and Caused by People,0,5,70,1,0,0,3,15,4
+NaN,0,58,NaN,3,Graduate degree,White,Single,Not Real At All,0,1,12,0,NaN,NaN,NaN,NaN,NaN
+NaN,0,72,Independent,NaN,Some college,White,Single,Real and Caused by People,2,5,2,0,1,1,3,10,5
+NaN,0,40,NaN,5,Graduate degree,Latino,In a relationship,Real but not Caused by People,0,2,3,0,1,NaN,3,29,NaN
+NaN,0,42,Independent,3,Graduate degree,Asian,Single,Real but not Caused by People,1,4,4,0,0,1,2,1,4
+NaN,0,22,NaN,4,High school,White,Single,Real and Caused by People,2,2,10,1,0,1,3,10,2
+NaN,0,58,Independent,5,College degree,White,Separated,Real but not Caused by People,0,5,0,1,NaN,1,3,5,4
+NaN,1,20,Independent,2,Some college,Latino,Single,Real and Caused by People,1,4,5,1,0,1,3,30,4
+NaN,0,42,Democrat,4,College degree,White,Single,Real and Caused by People,4,1,20,0,1,0,3,10,4
+NaN,0,23,Independent,NaN,Some college,White,Married,Real and Caused by People,2,5,0,0,1,1,3,NaN,5
+NaN,NaN,62,Republican,5,Graduate degree,White,Married,Not Real At All,0,5,50,0,1,1,1,2,1
+41000,1,53,Independent,5,Some college,White,Married,Real but not Caused by People,3,5,25,1,0,0,3,1,4
+18000,1,83,Republican,2,Some college,White,Widowed,Not Real At All,0,4,0,0,1,1,2,60,4
+152000,0,35,Independent,1,College degree,White,Married,Real and Caused by People,1,5,10,0,1,0,2,1,5
+73000,1,53,Independent,5,Some college,White,Married,Real but not Caused by People,0,1,5,0,1,0,2,6,4
+42000,1,40,Independent,4,College degree,White,Single,Not Real At All,3,5,0,1,0,1,NaN,0,4
+68000,1,48,Democrat,2,Some college,Latino,Married,Not Real At All,2,5,4,0,0,1,2,5,2
+162000,NaN,48,Independent,5,Graduate degree,White,In a relationship,Not Real At All,2,4,3,1,1,0,2,8,4
+36000,1,65,Republican,5,College degree,White,Divorced,Not Real At All,NaN,5,10,1,NaN,0,2,30,2
+10000,1,43,Democrat,1,College degree,Black,Married,Real and Caused by People,0,4,20,0,1,0,2,10,2
+48000,1,23,Democrat,1,Some college,Latino,Single,NaN,0,2,20,1,NaN,1,NaN,NaN,4
+126000,NaN,42,Independent,5,Graduate degree,Black,Single,Not Real At All,2,4,7,1,0,1,3,43,4
+9000,1,70,Democrat,1,NaN,White,Married,Real and Caused by People,0,4,40,0,1,0,1,NaN,4
+122000,0,65,NaN,1,Some college,White,Widowed,NaN,0,4,3,0,1,NaN,3,2,4
+163000,1,47,Independent,1,College degree,White,Married,Real and Caused by People,0,4,3,0,1,0,3,5,5
+38000,0,45,Republican,5,College degree,White,Married,Real but not Caused by People,2,5,7,0,0,1,NaN,NaN,5
+78000,1,38,Independent,1,High school,White,Married,Not Real At All,1,5,0,1,1,1,3,10,1
+500000,0,46,Independent,1,College degree,White,Married,Real and Caused by People,1,5,2,1,0,0,3,6,5
+77000,1,51,Republican,NaN,Graduate degree,Latino,In a relationship,NaN,1,5,NaN,1,NaN,0,1,NaN,5
+103000,0,51,Independent,1,College degree,White,Married,Real and Caused by People,0,5,4,0,0,0,3,20,5
+64000,0,28,Democrat,1,College degree,White,Married,Real and Caused by People,5,5,2,1,1,0,3,15,4
+166000,0,28,Independent,4,Some college,White,NaN,Real but not Caused by People,3,5,5,0,0,1,2,7,1
+102000,0,49,Republican,4,High school,White,Married,Not Real At All,3,2,1,1,0,1,1,2,2
+86000,0,69,Democrat,1,Some college,White,Single,Real and Caused by People,0,5,5,0,0,NaN,3,NaN,5
+74000,0,38,Independent,1,College degree,White,Married,Real and Caused by People,1,4,4,1,1,1,3,10,5
+146000,1,46,Independent,1,Graduate degree,White,Married,Real and Caused by People,2,2,5,1,0,1,1,75,2
+NaN,1,49,Democrat,1,High school,Black,Widowed,Real but not Caused by People,4,5,10,1,0,0,3,50,5
+74000,1,45,Republican,4,Graduate degree,White,Married,Real but not Caused by People,1,4,26,0,1,NaN,1,38,5
+NaN,1,27,Independent,3,College degree,Asian,Single,Real and Caused by People,4,4,30,0,0,1,2,20,2
+NaN,1,41,NaN,NaN,Graduate degree,Latino,Divorced,Real and Caused by People,2,5,20,1,1,1,2,1,4
+NaN,1,24,Democrat,NaN,College degree,Asian,Single,Real and Caused by People,2,5,20,1,1,1,3,2,5
+NaN,0,32,Democrat,1,College degree,White,Single,Real and Caused by People,0,5,3,0,0,0,3,3,5
+NaN,0,54,NaN,2,High school,White,Divorced,Real but not Caused by People,0,NaN,400,0,1,0,1,50,5
+NaN,0,51,Democrat,1,Graduate degree,Asian,Married,Real and Caused by People,0,5,5,0,1,0,3,5,5
+NaN,1,44,Republican,4,Some college,White,Married,Real and Caused by People,NaN,5,10,0,0,0,3,1,5
+NaN,1,45,NaN,1,College degree,Black,Divorced,Real but not Caused by People,NaN,3,10,1,1,NaN,NaN,NaN,5
+NaN,1,49,Democrat,1,Graduate degree,Asian,Married,Real and Caused by People,2,5,25,0,0,1,3,2,5
+NaN,1,18,NaN,1,High school,Black,Single,Real and Caused by People,0,4,40,0,0,NaN,2,30,2
+NaN,1,30,Independent,1,Some college,Black,Married,Real but not Caused by People,3,2,5,1,0,1,1,20,5
+NaN,1,29,Independent,1,College degree,White,Single,Real and Caused by People,0,5,2,0,1,0,3,5,5
+NaN,1,21,Republican,5,Some college,White,Single,Real but not Caused by People,3,5,5,0,1,0,2,5,2
+NaN,0,75,Independent,5,College degree,White,Divorced,Real but not Caused by People,3,4,4,1,1,1,3,5,4
+NaN,1,50,Democrat,1,Some college,White,In a relationship,Real and Caused by People,1,2,2,1,NaN,0,3,2,1
+36000,1,87,NaN,4,Some college,White,Widowed,Real but not Caused by People,0,5,20,0,0,0,NaN,NaN,4
+NaN,0,72,Democrat,1,College degree,White,Widowed,Real and Caused by People,1,5,12,NaN,0,0,3,12,4
+NaN,1,54,Independent,3,College degree,White,Widowed,Real and Caused by People,NaN,5,100,1,0,1,3,10,4
+NaN,1,18,Democrat,2,College degree,Latino,Single,Real and Caused by People,2,4,30,0,1,0,1,70,4
+NaN,0,41,NaN,1,Some college,Asian,Single,Real and Caused by People,3,4,2,NaN,NaN,0,3,NaN,4
+NaN,0,21,Independent,NaN,Some college,Asian,In a relationship,Real and Caused by People,3,4,2,0,0,1,2,15,4
+NaN,0,70,Democrat,4,Some college,White,Widowed,Real but not Caused by People,1,4,0,0,0,1,NaN,15,1
+NaN,1,22,Independent,1,College degree,Latino,Single,Real and Caused by People,0,5,5,0,NaN,0,3,NaN,5
+NaN,1,97,Independent,4,College degree,White,Widowed,NaN,NaN,NaN,5,0,1,0,NaN,10,2
+NaN,1,35,NaN,NaN,College degree,Asian,Single,Real and Caused by People,2,4,7,0,0,1,2,NaN,5
+NaN,1,40,Democrat,1,Some college,Asian,Married,Real and Caused by People,4,5,0,1,0,0,2,10,4
+NaN,0,28,Independent,4,Some college,Other,In a relationship,Real and Caused by People,5,4,30,0,1,0,2,5,4
+NaN,0,50,NaN,NaN,College degree,NaN,Single,Real and Caused by People,3,NaN,7,0,NaN,NaN,1,NaN,1
+NaN,0,29,NaN,3,Some college,Latino,Single,Real and Caused by People,1,5,3,0,0,1,3,5,4
+NaN,0,27,Independent,1,College degree,Other,Married,Real and Caused by People,3,5,3,0,0,0,3,1,5
+106000,0,50,Independent,NaN,Graduate degree,White,Married,Real and Caused by People,0,5,4,NaN,1,NaN,3,5,5
+NaN,0,20,Democrat,1,Some college,White,Single,Real and Caused by People,3,4,7,0,1,1,3,5,4
+NaN,0,34,Democrat,2,Some college,Black,In a relationship,Real and Caused by People,3,5,60,1,0,0,2,20,2
+NaN,NaN,34,Independent,4,College degree,White,NaN,Real but not Caused by People,2,5,18,0,0,1,1,1,4
+NaN,0,34,Democrat,5,High school,White,Single,Real and Caused by People,1,5,1,1,0,1,3,3,4
+NaN,0,33,NaN,3,Graduate degree,Black,Single,NaN,3,3,4,0,NaN,1,3,6,2
+NaN,1,36,NaN,NaN,College degree,White,Married,NaN,2,4,50,1,1,0,2,NaN,5
+NaN,0,74,NaN,5,High school,White,Married,Real but not Caused by People,NaN,5,NaN,0,NaN,NaN,1,NaN,4
+NaN,NaN,21,NaN,5,NaN,Black,Single,Real and Caused by People,3,2,NaN,0,0,1,1,6,1
+NaN,0,29,Republican,2,College degree,White,Married,Real and Caused by People,2,4,0,1,1,1,3,50,5
+NaN,1,37,Independent,5,High school,White,Married,Real but not Caused by People,0,1,0,0,0,1,1,NaN,2
+NaN,1,79,Independent,2,High school,White,Married,Real and Caused by People,0,5,35,0,0,NaN,NaN,10,4
+NaN,0,23,Independent,1,Graduate degree,Latino,Single,Real and Caused by People,0,5,5,0,1,1,3,0.05,5
+NaN,0,77,Democrat,1,College degree,Black,Married,Real and Caused by People,0,5,10,1,0,0,3,35,5
+NaN,0,36,Republican,5,Some college,Latino,Married,Real but not Caused by People,4,5,10,0,0,1,2,20,5
+NaN,0,69,Republican,5,Some college,White,Married,Not Real At All,0,NaN,3,NaN,1,1,2,5,1
+NaN,1,20,Democrat,1,High school,White,Single,Real and Caused by People,4,5,100,0,0,0,3,20,5
+NaN,0,34,Independent,1,Some college,Black,Married,Real and Caused by People,2,5,0,0,1,1,3,5,4
+NaN,0,23,Independent,3,Some college,White,Single,Real but not Caused by People,0,5,9,0,0,0,2,NaN,4
+NaN,0,51,Independent,1,College degree,White,Married,Real and Caused by People,2,5,6,0,0,1,2,1,5
+NaN,1,68,Republican,5,High school,White,Married,NaN,0,2,4,1,NaN,0,1,NaN,2
+NaN,1,68,Democrat,1,College degree,White,Divorced,Real and Caused by People,1,5,300,0,0,NaN,3,3,5
+NaN,1,44,Democrat,1,High school,Black,Single,Real and Caused by People,4,4,12,1,1,0,2,NaN,5
+NaN,1,19,NaN,NaN,College degree,White,Single,NaN,0,NaN,9,0,0,NaN,NaN,NaN,1
+NaN,0,20,Republican,4,Some college,White,Single,Real and Caused by People,2,5,12,0,0,0,3,1,4
+NaN,1,31,NaN,NaN,Some college,Black,In a relationship,Real but not Caused by People,NaN,5,0,1,1,NaN,NaN,NaN,NaN
+NaN,1,67,Republican,5,Graduate degree,White,Married,Real and Caused by People,0,5,150,0,0,NaN,NaN,NaN,4
+127000,1,85,NaN,4,NaN,White,Married,NaN,0,4,0,1,1,0,2,NaN,4
+24000,1,28,Independent,4,College degree,White,Single,Real and Caused by People,2,5,0,1,1,0,2,50,4
+8000,1,50,Republican,5,High school,White,Married,Real and Caused by People,0,5,6,1,1,NaN,2,NaN,4
+60000,0,39,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,25,0,1,NaN,3,NaN,5
+167000,1,34,Independent,1,Some college,White,Married,NaN,1,5,36,0,1,1,3,NaN,4
+43000,0,50,Independent,NaN,High school,White,Married,Real and Caused by People,5,1,2,0,1,1,NaN,NaN,2
+121000,1,49,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,12,1,0,0,NaN,8,5
+74000,1,42,Democrat,1,Some college,White,Married,Real and Caused by People,2,5,3,0,1,1,3,NaN,5
+101000,1,42,Democrat,1,Graduate degree,NaN,Married,Real and Caused by People,0,5,2,1,0,0,2,NaN,5
+360000,1,65,Independent,1,Graduate degree,White,Married,Real and Caused by People,0,NaN,12,NaN,1,1,3,5,5
+30000,1,49,Democrat,1,College degree,White,Widowed,Real and Caused by People,0,1,50,1,0,0,3,1,5
+80000,0,50,Republican,4,College degree,White,Married,Real and Caused by People,5,5,4,0,0,1,2,1,4
+72000,NaN,70,Independent,4,Graduate degree,NaN,NaN,Not Real At All,0,1,25,1,1,0,2,0,5
+81000,1,27,NaN,1,Graduate degree,Latino,In a relationship,Real and Caused by People,0,5,27,1,0,0,3,7,5
+54000,1,54,Republican,5,Some college,White,Married,Real but not Caused by People,0,NaN,20,0,NaN,0,NaN,NaN,NaN
+23000,0,73,Independent,2,High school,Asian,Married,Not Real At All,0,5,3,0,1,0,1,NaN,1
+44000,1,44,NaN,NaN,Some college,White,Widowed,Real and Caused by People,4,4,6,1,1,1,3,75,2
+159000,1,45,Democrat,1,College degree,White,Married,Real and Caused by People,0,5,18,0,0,0,3,5,5
+163000,0,45,NaN,1,Graduate degree,White,Married,Real and Caused by People,2,5,12,0,1,NaN,3,2,5
+44000,1,80,Democrat,1,High school,White,Married,Real and Caused by People,0,4,20,1,1,1,3,50,4
+47000,1,45,Democrat,1,NaN,White,Married,Real and Caused by People,1,5,20,1,NaN,1,3,5,5
+124000,1,80,Independent,1,College degree,White,Widowed,Real and Caused by People,0,5,20,0,1,0,2,NaN,5
+97000,NaN,32,Independent,1,High school,Latino,Single,Real and Caused by People,0,4,3,0,1,1,NaN,NaN,4
+220000,0,45,Democrat,1,College degree,Latino,In a relationship,Real and Caused by People,0,5,6,1,1,1,3,1,5
+NaN,1,24,Independent,1,Some college,White,In a relationship,Real but not Caused by People,0,4,30,1,0,1,NaN,30,2
+NaN,0,54,Republican,5,Graduate degree,White,Single,Real but not Caused by People,5,5,3,1,0,1,NaN,2,1
+NaN,1,43,Independent,1,High school,White,Widowed,Real and Caused by People,2,5,0,0,1,1,3,NaN,5
+NaN,1,43,Democrat,1,College degree,White,Single,Real and Caused by People,NaN,4,7,0,0,1,2,NaN,5
+NaN,1,31,Democrat,1,College degree,Black,Married,Real and Caused by People,5,2,4,0,0,1,1,NaN,5
+NaN,0,31,NaN,NaN,College degree,Latino,Married,Real and Caused by People,4,5,20,0,0,0,3,NaN,4
+NaN,1,71,Republican,5,College degree,White,Married,Real but not Caused by People,1,5,10,0,1,1,2,60,4
+NaN,0,40,Independent,1,Graduate degree,White,Married,Real but not Caused by People,4,5,6,0,1,1,3,2,4
+NaN,0,28,Republican,3,College degree,White,Married,Real but not Caused by People,2,4,1,0,0,1,3,1,4
+NaN,0,47,Independent,2,High school,Black,Single,Real and Caused by People,1,2,3,0,1,0,1,NaN,3
+NaN,0,22,Democrat,4,Graduate degree,Black,In a relationship,Real and Caused by People,1,5,20,0,0,0,3,25,4
+NaN,0,71,Democrat,2,High school,Black,Single,Real and Caused by People,2,5,9,0,1,1,1,50,2
+NaN,0,77,Republican,NaN,Some college,White,Divorced,NaN,1,NaN,30,0,0,1,3,10,NaN
+16000,1,68,Democrat,NaN,College degree,Latino,Married,Real and Caused by People,0,NaN,2,0,NaN,0,NaN,70,NaN
+NaN,1,46,Democrat,1,College degree,White,Married,Real and Caused by People,1,4,0,0,1,0,2,20,4
+NaN,1,25,Democrat,1,Graduate degree,NaN,Single,Real and Caused by People,1,5,8,1,0,1,3,15,5
+NaN,1,46,Independent,1,Graduate degree,White,Married,NaN,3,5,4,1,1,1,3,5,4
+NaN,0,50,Independent,1,Graduate degree,Black,Married,Real and Caused by People,0,4,10,0,1,1,2,5,5
+NaN,1,25,Independent,1,College degree,Black,Single,Real and Caused by People,0,1,10,1,1,1,NaN,35,1
+NaN,1,29,Democrat,1,High school,White,In a relationship,Real and Caused by People,NaN,2,25,1,1,0,1,NaN,5
+NaN,0,20,Republican,5,Some college,White,Single,Real but not Caused by People,4,5,20,0,1,1,1,20,1
+NaN,0,40,NaN,NaN,Some college,Latino,Married,Real and Caused by People,2,5,NaN,1,0,1,3,1,4
+NaN,0,32,Independent,1,College degree,White,Single,Real and Caused by People,0,5,20,0,1,1,3,45,4
+NaN,1,54,Republican,4,Some college,White,Married,Real but not Caused by People,0,5,10,1,1,0,NaN,5,4
+NaN,0,35,Republican,1,High school,NaN,In a relationship,Real and Caused by People,2,5,2,0,1,0,2,20,5
+NaN,1,19,Democrat,1,Some college,White,Single,Real and Caused by People,0,5,4,0,0,1,3,20,4
+NaN,1,67,Democrat,1,Some college,White,Married,Real and Caused by People,0,5,20,1,NaN,NaN,3,20,5
+NaN,0,35,Independent,1,College degree,White,Married,Real and Caused by People,1,5,10,0,0,0,3,1,5
+NaN,1,42,Republican,1,Some college,White,Married,Real and Caused by People,0,5,3,1,1,0,3,15,4
+NaN,0,91,Democrat,NaN,High school,Black,Widowed,Real but not Caused by People,NaN,NaN,1,0,1,NaN,NaN,NaN,NaN
+NaN,1,21,Republican,5,Some college,White,In a relationship,Not Real At All,5,5,4,1,1,1,3,10,4
+NaN,1,67,Republican,5,High school,White,Widowed,Real and Caused by People,2,5,15,1,0,1,3,NaN,1
+NaN,0,32,NaN,1,Some college,Black,Single,Real and Caused by People,5,5,5,0,1,0,3,10,5
+NaN,0,30,Independent,1,College degree,White,Married,Real and Caused by People,0,5,10,0,0,0,3,10,5
+NaN,1,71,Democrat,1,Graduate degree,White,Married,Real and Caused by People,3,5,40,0,1,0,3,5,5
+NaN,0,73,Independent,4,Graduate degree,White,Married,Real but not Caused by People,0,5,3,0,1,0,3,5,4
+NaN,1,38,Republican,4,College degree,White,Divorced,Real and Caused by People,0,5,20,0,0,0,2,10,4
+NaN,1,30,Democrat,2,Some college,White,Married,Not Real At All,3,5,15,0,1,0,2,NaN,4
+NaN,0,20,NaN,NaN,Some college,White,In a relationship,Real but not Caused by People,5,3,5,0,0,1,2,10,3
+NaN,1,45,Independent,1,Graduate degree,White,Married,Real and Caused by People,0,5,10,NaN,0,0,NaN,5,5
+NaN,1,75,Republican,NaN,High school,White,Widowed,Real and Caused by People,0,5,100,1,1,0,1,NaN,2
+NaN,1,48,Democrat,1,NaN,White,Married,Real and Caused by People,0,5,15,0,0,NaN,3,10,5
+NaN,0,21,NaN,NaN,Some college,White,In a relationship,Real and Caused by People,4,5,0,0,0,1,3,70,4
+NaN,0,46,Independent,2,High school,Latino,Other,Real and Caused by People,4,2,NaN,1,1,0,NaN,NaN,5
+NaN,NaN,92,Independent,2,High school,Asian,Divorced,Real and Caused by People,3,5,0,1,1,1,3,95,5
+NaN,0,71,Republican,4,College degree,White,Widowed,Real and Caused by People,NaN,4,2,1,0,0,1,5,1
+NaN,1,36,NaN,4,High school,White,Divorced,Real and Caused by People,1,5,200,1,1,0,3,45,4
+NaN,1,30,Democrat,1,High school,White,Single,Real and Caused by People,2,5,15,1,1,0,3,NaN,5
+NaN,0,36,Republican,5,College degree,White,Married,Real but not Caused by People,2,5,6,0,0,1,2,2,2
+NaN,0,48,NaN,1,College degree,NaN,Single,Real and Caused by People,0,1,90,0,0,0,1,NaN,5
+NaN,0,43,Independent,5,High school,White,Married,Real and Caused by People,5,4,0,1,1,1,3,3,2
+NaN,0,27,Republican,5,High school,White,Married,Real and Caused by People,4,2,4,1,1,1,1,20,1
+NaN,1,36,Democrat,1,Graduate degree,White,Divorced,Real and Caused by People,0,5,40,1,0,1,3,5,5
+390000,0,48,Democrat,1,College degree,White,Married,Real and Caused by People,1,5,5,1,0,0,3,3,5
+170000,0,46,Democrat,2,Graduate degree,White,Married,Real and Caused by People,1,5,6,0,0,1,3,0,5
+92000,0,99,Republican,4,College degree,NaN,Married,Real and Caused by People,3,5,15,0,1,NaN,2,10,4
+223000,1,84,Independent,NaN,Graduate degree,Black,Married,NaN,0,5,10,0,1,NaN,2,NaN,4
+102000,0,37,Independent,3,High school,Native American,Married,Real and Caused by People,3,1,0,1,1,0,NaN,NaN,2
+68000,0,44,Republican,5,Some college,White,Single,Real and Caused by People,0,5,10,0,1,0,NaN,NaN,5
+160000,0,65,Democrat,1,College degree,White,Married,Real and Caused by People,0,4,0,0,NaN,0,2,NaN,5
+70000,1,38,Independent,1,High school,White,Married,Real and Caused by People,0,5,30,0,0,0,3,5,2
+56000,0,68,Independent,1,College degree,NaN,In a relationship,Real and Caused by People,2,5,15,NaN,0,NaN,3,10,5
+38000,0,51,Republican,5,College degree,White,Married,Not Real At All,0,4,8,0,1,0,3,0,1
+64000,0,54,Democrat,5,Some college,White,Married,Not Real At All,0,5,0,0,0,1,1,5,1
+124000,1,37,Republican,5,Graduate degree,White,In a relationship,Real but not Caused by People,1,5,16,1,0,0,2,33,1
+7000,1,66,Democrat,1,College degree,White,Married,Real and Caused by People,0,5,50,1,0,1,3,25,4
+43000,1,65,Independent,5,Some college,Black,Widowed,Real and Caused by People,0,4,100,0,0,1,2,50,2
+12000,NaN,72,Republican,NaN,Some college,White,Married,Real and Caused by People,0,5,52,1,1,1,3,10,2
+34000,0,65,Democrat,2,Some college,White,Divorced,Real and Caused by People,0,NaN,10,1,1,0,1,NaN,2
+87000,0,22,NaN,1,Some college,White,Divorced,Real and Caused by People,5,3,0,1,NaN,NaN,NaN,NaN,3
+58000,0,51,Republican,5,High school,White,Single,Not Real At All,0,4,0,0,1,0,1,NaN,4
+260000,1,43,Independent,NaN,Some college,White,Single,Real and Caused by People,1,5,18,1,1,0,NaN,0,1
+139000,0,32,Democrat,4,College degree,White,Married,Real and Caused by People,2,4,2,0,1,1,2,1,4
+211000,1,65,Independent,1,College degree,White,Married,Real and Caused by People,0,5,12,1,1,0,NaN,2,5
+73000,1,71,NaN,NaN,Some college,Asian,Widowed,Real but not Caused by People,0,5,1,0,0,0,2,50,5
+72000,0,65,Independent,5,High school,White,Married,Real but not Caused by People,2,5,6,NaN,0,0,2,NaN,5
+9000,1,40,Democrat,1,Graduate degree,Black,Married,Real but not Caused by People,1,1,20,0,1,0,1,50,1
+56000,0,79,Democrat,NaN,Some college,Black,Married,Real and Caused by People,NaN,4,20,0,NaN,0,3,NaN,4
+30000,1,68,Republican,5,High school,White,Married,Real but not Caused by People,0,5,3,0,1,0,2,10,2
+101000,1,51,Democrat,1,College degree,White,Married,Real and Caused by People,2,4,12,1,0,NaN,3,5,5
+32000,0,39,Republican,5,College degree,White,Married,Not Real At All,0,1,12,1,0,NaN,1,NaN,1
+168000,1,51,Independent,3,College degree,White,Married,Real but not Caused by People,0,4,24,0,0,0,2,5,5
+75000,0,83,Democrat,NaN,Some college,White,Divorced,NaN,0,NaN,0,NaN,1,0,3,NaN,3
+27000,0,52,Republican,5,College degree,White,Married,Not Real At All,0,5,1,0,1,1,NaN,NaN,2
+32000,0,53,NaN,4,Some college,White,Single,Real but not Caused by People,0,4,2,0,1,1,2,NaN,4
+93000,1,66,Democrat,1,Graduate degree,White,Married,Real and Caused by People,3,5,20,0,1,0,3,10,5
+29000,1,37,Independent,1,College degree,White,Single,Not Real At All,2,5,2,1,0,1,NaN,15,2
+131000,0,53,NaN,1,High school,White,Married,NaN,0,NaN,0,0,1,1,NaN,NaN,NaN
+168000,1,65,Independent,1,Some college,White,Married,Real and Caused by People,3,5,NaN,1,1,1,3,3,5
+62000,1,18,Democrat,1,High school,Black,Single,Real and Caused by People,5,4,50,0,1,1,3,20,5
+10000,0,43,Independent,2,College degree,White,Divorced,Not Real At All,0,2,50,0,1,NaN,1,NaN,2
+24000,1,65,Independent,3,Some college,White,Married,Real and Caused by People,2,5,20,0,0,0,2,NaN,4
+15000,1,86,Independent,5,High school,White,Widowed,Real but not Caused by People,0,4,NaN,0,NaN,1,NaN,NaN,NaN
+107000,0,76,Democrat,5,Graduate degree,White,Married,NaN,0,5,25,0,NaN,NaN,3,1,4
+204000,1,35,Independent,1,Graduate degree,White,Married,Real and Caused by People,0,5,45,0,1,0,3,10,4
+75000,0,40,Independent,NaN,College degree,White,Married,NaN,0,4,20,1,0,1,3,5,4
+12000,1,48,Democrat,1,Graduate degree,Black,Divorced,Real and Caused by People,4,4,15,0,1,0,NaN,6,4
+144000,0,36,Independent,1,College degree,White,Single,Real and Caused by People,0,5,7,0,1,0,3,4,5
+79000,1,48,Democrat,1,College degree,Black,Single,Real and Caused by People,4,2,3,0,0,0,3,1,4
+28000,1,68,Independent,1,Graduate degree,White,Married,Real and Caused by People,0,5,50,0,0,NaN,3,4,5
+129000,1,51,Republican,NaN,Some college,White,Married,Real but not Caused by People,NaN,4,3,1,NaN,0,1,30,1
+25000,0,53,Independent,1,Some college,Black,Single,Real and Caused by People,4,2,10,0,1,1,2,1,5
+5000,1,43,Democrat,1,Some college,Black,Single,Real and Caused by People,1,4,2,0,1,1,NaN,NaN,5
+10000,1,76,Independent,NaN,NaN,Latino,Widowed,Real and Caused by People,0,NaN,0,1,1,NaN,NaN,NaN,NaN
+NaN,0,44,Independent,1,College degree,White,Divorced,Real and Caused by People,0,5,20,0,0,0,3,5,5
+NaN,1,75,Republican,4,Some college,White,Married,Real but not Caused by People,0,5,4,0,NaN,0,2,NaN,4
+NaN,1,35,Democrat,1,Some college,Black,In a relationship,Real and Caused by People,0,1,20,0,1,0,3,30,5
+NaN,1,43,Independent,NaN,Some college,NaN,Married,Real but not Caused by People,4,4,3,0,1,0,2,20,2
+NaN,0,30,NaN,4,Some college,Latino,Married,Real but not Caused by People,3,5,7,0,0,1,3,1,2
+NaN,0,21,Democrat,4,High school,Black,Divorced,Not Real At All,0,4,0,0,1,0,2,0,4
+NaN,0,34,Independent,NaN,College degree,White,Married,Real but not Caused by People,0,5,5,0,0,1,2,20,2
+NaN,0,43,Independent,1,Some college,White,Married,Real and Caused by People,3,5,3,0,0,0,3,2,5
+NaN,1,45,Democrat,1,High school,Latino,Single,Real but not Caused by People,0,5,0,0,1,1,1,NaN,4
+NaN,0,20,Democrat,1,Some college,Latino,Single,Real and Caused by People,0,NaN,3,0,0,0,2,NaN,2
+NaN,1,47,NaN,NaN,Graduate degree,White,Divorced,Real and Caused by People,1,2,6,1,NaN,0,3,NaN,NaN
+NaN,0,28,NaN,1,Some college,Latino,In a relationship,Real and Caused by People,0,2,5,0,0,0,2,20,4
+NaN,1,22,Democrat,1,College degree,White,In a relationship,Real and Caused by People,2,5,40,0,1,1,3,5,5
+NaN,1,42,Independent,1,Some college,White,Married,Real and Caused by People,1,4,10,0,0,0,2,NaN,5
+NaN,0,37,NaN,NaN,Graduate degree,Asian,Married,NaN,0,5,5,0,1,NaN,NaN,NaN,4
+NaN,1,50,Independent,1,Graduate degree,White,Married,Real and Caused by People,2,5,20,0,NaN,1,3,15,5
+NaN,1,33,Democrat,1,College degree,Black,In a relationship,Real and Caused by People,3,1,15,1,0,0,2,75,2
+NaN,0,47,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,80,0,0,1,3,1,5
+NaN,0,46,Democrat,1,Some college,Black,In a relationship,Real and Caused by People,2,5,0,1,1,0,3,NaN,NaN
+NaN,0,27,Republican,5,College degree,White,Single,Real and Caused by People,4,NaN,150,1,1,1,3,60,4
+NaN,0,21,Democrat,1,Some college,Black,Single,Real and Caused by People,0,NaN,0,1,1,0,NaN,NaN,1
+NaN,1,75,Republican,5,College degree,White,Married,Real and Caused by People,0,3,7,1,1,NaN,3,10,5
+NaN,0,24,Independent,2,College degree,White,In a relationship,Real and Caused by People,3,5,15,1,1,0,3,5,5
+NaN,1,24,Republican,4,Some college,Latino,Single,Real and Caused by People,1,5,10,0,1,1,3,NaN,2
+42000,0,30,Independent,NaN,NaN,Latino,Divorced,Real and Caused by People,2,5,10,0,1,0,3,NaN,4
+63000,0,23,NaN,NaN,High school,White,Single,Real and Caused by People,1,NaN,200,0,1,0,2,16,NaN
+32000,0,51,Democrat,2,High school,Latino,Married,Real and Caused by People,5,5,1,1,1,1,3,10,4
+58000,1,53,Independent,NaN,High school,White,In a relationship,Real but not Caused by People,0,5,0,1,1,1,1,4,1
+135000,1,51,Independent,1,Graduate degree,White,Married,Real and Caused by People,1,5,3,1,0,0,3,2,5
+81000,1,66,Independent,3,High school,White,Divorced,NaN,0,5,100,0,0,0,1,20,2
+46000,0,50,Democrat,1,Graduate degree,NaN,Married,Real but not Caused by People,0,4,5,0,1,NaN,NaN,NaN,NaN
+76000,1,24,NaN,1,Graduate degree,Latino,Single,NaN,2,NaN,NaN,0,0,0,NaN,NaN,NaN
+95000,1,47,Republican,3,Graduate degree,White,Married,NaN,0,5,100,0,1,0,NaN,3,3
+23000,1,50,NaN,5,Graduate degree,Black,Married,Not Real At All,5,4,50,0,1,1,3,5,4
+38000,0,41,Republican,3,College degree,White,Married,Real and Caused by People,0,5,5,0,1,0,2,5,4
+68000,NaN,86,Republican,5,Graduate degree,Latino,Married,NaN,0,5,25,0,1,0,2,40,4
+177000,1,54,Republican,4,Graduate degree,White,Married,NaN,3,5,6,0,0,0,2,8,4
+79000,0,69,Democrat,1,Some college,White,Married,Real and Caused by People,0,4,4,1,1,0,1,NaN,4
+46000,1,47,NaN,NaN,High school,Latino,Married,Real and Caused by People,0,5,5,1,NaN,NaN,NaN,NaN,NaN
+106000,0,37,NaN,5,Some college,NaN,Married,Real but not Caused by People,4,5,1,1,1,1,NaN,NaN,3
+73000,1,38,Democrat,1,College degree,White,Married,Real and Caused by People,1,5,15,0,0,1,3,40,5
+18000,0,46,Republican,5,College degree,White,Married,Not Real At All,3,2,1,0,1,1,2,20,1
+17000,1,52,NaN,NaN,High school,White,Married,Real but not Caused by People,0,4,5,0,0,0,NaN,NaN,1
+135000,0,65,NaN,5,College degree,White,Widowed,Not Real At All,0,1,0,0,NaN,0,1,NaN,2
+61000,0,35,NaN,NaN,College degree,White,Married,Not Real At All,5,5,2,0,0,1,2,5,4
+57000,1,50,Republican,5,College degree,White,Married,Not Real At All,3,2,0,0,0,0,NaN,NaN,2
+56000,1,51,Democrat,1,Some college,White,Married,Real and Caused by People,1,5,200,1,1,1,3,1,5
+14000,NaN,96,Independent,5,Graduate degree,Asian,Divorced,Real and Caused by People,5,4,1000,1,1,1,2,100,5
+98000,0,47,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,7,0,1,0,3,5,5
+NaN,0,30,Independent,4,College degree,White,Married,Real but not Caused by People,2,4,5,0,1,0,2,15,5
+142000,1,53,Independent,1,College degree,White,Married,Real and Caused by People,0,5,5,0,0,0,3,0.5,5
+10000,0,86,Democrat,1,Graduate degree,White,Widowed,Real and Caused by People,NaN,5,150,0,0,0,3,NaN,5
+211000,1,48,Republican,4,Some college,White,Married,Real and Caused by People,2,5,1,1,1,1,2,18,4
+47000,0,51,Independent,5,High school,White,Married,Not Real At All,5,5,0,0,1,0,1,20,1
+72000,1,65,NaN,1,High school,White,Married,Real and Caused by People,3,5,50,1,1,0,3,60,1
+39000,0,45,Independent,1,Some college,Latino,Single,Real and Caused by People,NaN,NaN,0,1,NaN,0,3,NaN,5
+55000,NaN,47,Republican,5,Some college,Asian,Married,NaN,0,5,1,1,1,0,1,6,4
+116000,0,48,Independent,1,Graduate degree,Asian,Married,Real and Caused by People,1,4,5,0,0,1,3,6,4
+9000,NaN,48,Democrat,1,High school,White,Single,Not Real At All,0,5,0,1,1,0,2,NaN,2
+35000,0,30,Republican,5,High school,White,Single,Not Real At All,4,5,0,0,0,0,2,20,5
+5000,1,48,NaN,2,NaN,White,Single,Real and Caused by People,1,1,30,1,1,0,3,85,4
+23000,1,51,Democrat,1,Some college,Black,In a relationship,Real but not Caused by People,2,5,0,0,1,0,2,NaN,5
+164000,0,35,Independent,1,Graduate degree,Asian,Married,Real and Caused by People,NaN,5,10,0,0,0,3,10,5
+90000,1,48,Democrat,2,Some college,White,Single,Real and Caused by People,0,2,1,1,1,1,3,75,5
+9000,0,22,Independent,5,High school,White,In a relationship,Not Real At All,3,1,200,0,0,0,2,50,5
+131000,1,51,Independent,1,Some college,White,Married,Real and Caused by People,0,1,40,0,0,0,3,5,4
+NaN,0,73,Republican,5,Some college,White,Widowed,Not Real At All,0,1,5,0,1,1,1,NaN,2
+NaN,1,23,Independent,1,College degree,Latino,Single,Real and Caused by People,2,4,8,1,1,0,3,9,4
+NaN,1,51,Republican,5,Some college,White,Divorced,Not Real At All,5,1,15,1,1,1,1,5,1
+NaN,0,42,Republican,5,High school,Latino,Single,Real and Caused by People,4,4,1,1,0,0,3,30,4
+NaN,0,84,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,30,0,0,1,3,NaN,5
+NaN,1,77,Republican,5,NaN,White,Widowed,NaN,0,NaN,260,0,NaN,1,1,20,2
+NaN,1,37,NaN,5,College degree,White,Married,Real but not Caused by People,0,5,4,1,0,0,3,1,4
+NaN,0,50,Democrat,1,Some college,Black,Married,Real and Caused by People,0,4,0,1,0,1,3,5,5
+NaN,0,30,Republican,1,Graduate degree,White,Married,Real and Caused by People,3,5,4,1,1,0,2,10,5
+NaN,1,31,Democrat,1,Graduate degree,White,Single,Real and Caused by People,0,5,10,1,1,1,2,10,5
+NaN,1,24,Democrat,1,College degree,White,Single,Real and Caused by People,2,5,20,1,0,1,3,3,4
+NaN,0,26,Independent,2,Graduate degree,White,Single,Real and Caused by People,2,5,5,0,1,0,3,2,4
+NaN,0,35,Republican,1,Graduate degree,White,Married,Real and Caused by People,2,5,10,0,0,0,2,3,4
+NaN,1,18,Republican,4,Some college,White,In a relationship,Real but not Caused by People,4,4,9,0,0,0,1,57,2
+NaN,1,77,Independent,NaN,College degree,White,Widowed,Real and Caused by People,0,5,250,1,0,0,3,2,5
+NaN,0,60,Democrat,1,College degree,Latino,Single,Real and Caused by People,1,5,6,0,0,NaN,3,NaN,5
+NaN,0,58,Republican,5,Some college,White,Divorced,NaN,2,NaN,30,0,1,1,2,NaN,4
+NaN,0,41,Independent,1,Some college,Asian,Divorced,Real but not Caused by People,3,5,0,1,1,1,2,NaN,5
+NaN,0,71,Independent,1,Graduate degree,Latino,Married,Not Real At All,3,1,0,1,1,0,2,0,1
+NaN,1,61,Democrat,1,Some college,Black,Married,Real but not Caused by People,0,5,0,1,1,0,1,65,4
+NaN,1,34,Democrat,1,Some college,White,Married,Real and Caused by People,NaN,5,10,0,1,0,3,15,5
+NaN,0,61,Republican,5,College degree,White,Married,Not Real At All,2,2,3,0,1,0,1,40,1
+NaN,0,24,NaN,NaN,Graduate degree,Asian,Single,Real and Caused by People,4,5,12,0,0,0,3,NaN,4
+NaN,0,70,Independent,2,High school,White,Married,Real and Caused by People,3,5,2,1,1,0,NaN,NaN,4
+NaN,1,21,Democrat,1,Some college,Asian,Single,Real and Caused by People,1,5,25,0,0,0,3,4,5
+NaN,1,67,NaN,1,Some college,White,Married,Real and Caused by People,5,4,0,0,0,1,2,NaN,5
+NaN,1,70,Independent,5,College degree,White,Married,Real but not Caused by People,2,5,5,0,1,0,2,NaN,2
+NaN,0,80,Independent,1,Graduate degree,White,Married,Real and Caused by People,0,5,30,0,0,1,3,NaN,5
+NaN,0,41,Independent,1,High school,White,Divorced,Real and Caused by People,0,1,5,0,0,0,3,20,4
+NaN,0,45,Democrat,1,College degree,White,Married,Real and Caused by People,1,5,10,1,0,0,3,5,5
+NaN,1,54,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,5,0,1,0,3,15,5
+NaN,0,36,Independent,1,Some college,White,Married,Real and Caused by People,1,5,10,0,0,1,3,1,5
+NaN,1,38,Independent,1,Some college,Black,Single,Not Real At All,1,2,5,1,1,0,3,60,2
+NaN,0,42,Independent,4,College degree,NaN,NaN,NaN,NaN,NaN,0,0,NaN,NaN,NaN,1,NaN
+NaN,0,23,Democrat,3,Some college,NaN,Single,Real and Caused by People,4,5,0,1,0,1,3,NaN,4
+NaN,0,63,Republican,NaN,College degree,White,Married,Real and Caused by People,0,5,0,1,1,0,3,NaN,5
+NaN,0,32,Independent,NaN,College degree,White,Single,Real and Caused by People,3,5,10,0,0,0,1,2,4
+NaN,1,62,Independent,4,College degree,White,Married,Real but not Caused by People,3,5,10,0,1,1,3,1,4
+NaN,1,47,Independent,NaN,Some college,Latino,Divorced,Real and Caused by People,2,4,200,1,0,0,3,NaN,4
+NaN,1,34,Independent,4,College degree,White,Married,Real and Caused by People,0,5,18,0,1,1,3,NaN,5
+NaN,1,23,Independent,4,Some college,Latino,Single,Real and Caused by People,1,2,2,1,0,1,2,5,1
+NaN,0,27,Independent,NaN,Some college,Black,In a relationship,Real but not Caused by People,4,NaN,20,1,1,0,2,25,NaN
+NaN,1,48,Democrat,1,Some college,Latino,Divorced,Real but not Caused by People,0,4,1,1,1,1,2,60,4
+NaN,1,36,Democrat,4,Some college,White,Married,Not Real At All,3,5,2,0,0,0,2,30,5
+NaN,0,47,Republican,5,College degree,White,Married,Not Real At All,0,4,20,1,NaN,1,2,10,3
+NaN,0,48,Republican,5,Graduate degree,White,Married,Real but not Caused by People,1,5,4,0,0,0,3,2,5
+NaN,0,54,Independent,1,Graduate degree,Black,In a relationship,Real and Caused by People,0,5,4,0,1,1,3,2,5
+NaN,1,45,Democrat,1,Some college,Black,Single,Real and Caused by People,0,5,60,1,0,0,2,15,5
+NaN,1,50,Democrat,1,College degree,Latino,Married,Real and Caused by People,0,5,20,0,0,0,3,1,5
+NaN,1,35,NaN,3,College degree,White,Single,NaN,2,5,3,1,0,0,2,10,4
+NaN,0,48,Independent,2,High school,White,Separated,Real and Caused by People,2,4,1,0,0,0,1,30,2
+NaN,0,50,Independent,NaN,High school,White,Single,Real and Caused by People,NaN,NaN,NaN,1,NaN,1,1,90,1
+NaN,0,38,Independent,NaN,Some college,Asian,Single,Real and Caused by People,0,2,10,0,0,0,3,NaN,4
+NaN,0,36,Independent,1,Graduate degree,Latino,Single,Real and Caused by People,2,4,7,0,0,1,2,30,4
+NaN,1,67,Democrat,1,Graduate degree,White,Widowed,Real and Caused by People,2,5,70,1,0,0,3,5,5
+176000,0,38,NaN,3,Graduate degree,White,Single,NaN,3,5,3,0,0,1,3,3,5
+92000,0,58,NaN,2,Graduate degree,White,Married,Not Real At All,0,5,20,0,0,1,1,NaN,NaN
+117000,0,42,Republican,5,Some college,White,In a relationship,Real but not Caused by People,NaN,4,4,0,1,1,NaN,5,1
+137000,0,51,Independent,4,College degree,White,Widowed,Not Real At All,0,3,2,0,0,0,3,10,2
+39000,1,48,Independent,3,Some college,White,Married,Not Real At All,4,5,40,1,1,0,3,15,4
+80000,1,37,Independent,1,High school,White,In a relationship,Real but not Caused by People,0,5,100,0,1,0,NaN,NaN,2
+60000,0,50,Democrat,1,High school,Black,Married,Real and Caused by People,1,5,5,0,1,0,2,NaN,5
+114000,1,45,Independent,4,Some college,White,Married,Real and Caused by People,0,5,30,1,0,1,3,10,4
+89000,0,52,Republican,NaN,Some college,White,Married,Real but not Caused by People,2,5,50,0,0,0,2,15,4
+11000,1,41,NaN,NaN,Some college,White,Divorced,Real and Caused by People,5,5,200,0,1,1,NaN,NaN,4
+16000,1,65,Democrat,1,Some college,Latino,Married,Real and Caused by People,1,5,2,0,1,0,2,40,4
+125000,0,53,Republican,4,College degree,White,Married,Real and Caused by People,0,5,0,0,0,1,3,10,2
+92000,0,43,Independent,NaN,High school,White,Widowed,Real and Caused by People,4,1,0,0,1,0,NaN,5,2
+161000,0,28,Independent,2,College degree,White,Single,Real and Caused by People,0,5,1,0,0,1,2,5,5
+74000,NaN,22,Independent,1,College degree,Latino,Married,Real and Caused by People,2,5,6,0,0,0,3,2,4
+148000,1,58,Independent,3,Graduate degree,White,Married,Real and Caused by People,0,4,40,0,1,1,3,25,4
+85000,1,58,Republican,4,High school,White,Widowed,Real and Caused by People,0,5,0,1,1,0,3,NaN,4
+44000,0,54,Democrat,5,Some college,White,Divorced,Real and Caused by People,0,4,0,0,0,0,3,5,5
+165000,0,65,Independent,2,Graduate degree,White,Married,Real but not Caused by People,0,5,5,0,0,1,2,2,2
+175000,NaN,92,NaN,NaN,Graduate degree,NaN,Married,Real and Caused by People,NaN,5,100,1,1,1,3,1,5
+14000,0,65,Independent,5,Graduate degree,White,In a relationship,Not Real At All,0,5,6,0,1,1,1,0,1
+179000,0,51,NaN,5,College degree,White,Married,Not Real At All,1,NaN,5,0,0,1,NaN,NaN,NaN
+62000,NaN,56,Democrat,5,High school,White,Married,Real and Caused by People,3,1,16,1,1,1,1,16,1
+179000,1,49,Independent,2,College degree,Latino,Married,Real and Caused by People,0,4,15,1,0,0,3,5,4
+39000,1,49,Republican,4,High school,White,Divorced,Real but not Caused by People,1,5,3,1,1,0,3,10,4
+85000,1,63,Independent,1,High school,NaN,Single,NaN,0,5,0,1,NaN,1,NaN,1,5
+45000,1,58,Independent,4,High school,White,Single,Real and Caused by People,1,5,3,0,1,0,2,NaN,4
+37000,1,59,NaN,NaN,Graduate degree,Black,Divorced,Real and Caused by People,1,4,1,1,NaN,1,3,20,NaN
+148000,1,60,Republican,5,College degree,White,Married,Real but not Caused by People,0,5,20,0,0,0,2,25,2
+80000,1,55,Republican,5,College degree,White,Married,Real but not Caused by People,3,5,20,1,1,1,2,10,4
+40000,1,61,Democrat,1,Some college,Black,Single,Real but not Caused by People,2,5,100,0,1,0,2,10,2
+181000,0,53,Republican,2,High school,White,Married,Real and Caused by People,1,5,2,1,0,1,2,10,5
+65000,1,55,Independent,5,College degree,White,Married,Real and Caused by People,2,5,10,0,NaN,1,NaN,NaN,4
+76000,1,57,Democrat,2,Some college,White,Married,Real and Caused by People,1,4,8,1,1,0,3,10,2
+90000,NaN,56,Democrat,5,College degree,White,Married,Real and Caused by People,NaN,5,4,0,1,0,2,10,1
+74000,0,49,Republican,5,Some college,White,Married,Not Real At All,2,5,12,0,1,0,2,3,2
+162000,0,50,Republican,5,College degree,White,Married,Real but not Caused by People,1,1,20,0,0,0,1,30,4
+45000,0,83,NaN,NaN,High school,White,Widowed,Not Real At All,0,4,12,1,NaN,1,1,NaN,NaN
+NaN,0,45,Independent,1,College degree,White,Married,Real and Caused by People,1,5,25,0,1,0,3,6,5
+NaN,1,57,Democrat,1,Some college,White,Single,Real and Caused by People,1,5,20,1,0,1,3,NaN,5
+NaN,0,80,Republican,5,Some college,White,Married,Not Real At All,0,5,0,0,NaN,0,NaN,NaN,2
+NaN,0,70,Independent,5,Graduate degree,White,Married,Real but not Caused by People,0,4,30,1,NaN,NaN,NaN,NaN,4
+NaN,1,50,NaN,NaN,High school,Latino,Married,Real and Caused by People,4,5,1,0,0,1,NaN,NaN,4
+NaN,0,42,Democrat,1,College degree,White,Married,Real and Caused by People,1,5,12,0,1,0,3,1,5
+NaN,0,54,Independent,1,Some college,White,Divorced,Real but not Caused by People,0,2,12,1,1,0,NaN,1,4
+NaN,0,72,NaN,5,Graduate degree,White,Married,Not Real At All,NaN,5,5,0,1,NaN,NaN,NaN,4
+NaN,1,49,Republican,5,Graduate degree,White,Married,Real and Caused by People,2,5,12,0,0,0,2,20,5
+NaN,0,60,NaN,1,Some college,White,Single,Real and Caused by People,3,4,6,0,NaN,0,3,1,5
+NaN,0,54,Democrat,2,High school,White,Single,NaN,NaN,NaN,2,NaN,0,0,NaN,NaN,4
+NaN,0,54,Republican,5,Some college,White,Divorced,Real and Caused by People,0,5,1,0,0,1,1,5,2
+NaN,1,49,NaN,4,High school,White,Separated,Real and Caused by People,0,5,0,1,0,1,NaN,NaN,5
+NaN,0,27,Independent,1,Some college,White,Married,Real and Caused by People,NaN,4,2,0,1,0,3,NaN,5
+NaN,0,30,NaN,5,High school,White,Married,Real but not Caused by People,2,5,20,0,0,0,NaN,NaN,NaN
+NaN,0,25,Independent,NaN,NaN,White,In a relationship,Real but not Caused by People,2,5,3,0,NaN,1,1,NaN,NaN
+NaN,0,60,NaN,5,Some college,NaN,Married,Real but not Caused by People,3,2,4,1,0,0,2,NaN,4
+157000,1,46,Republican,1,College degree,Asian,Married,Real and Caused by People,3,2,6,1,1,1,2,30,2
+161000,0,35,Democrat,1,College degree,White,Married,Real but not Caused by People,4,5,30,1,1,1,1,25,4
+41000,1,62,Republican,5,Graduate degree,White,Widowed,Not Real At All,0,2,20,NaN,0,1,2,17,1
+103000,0,60,Republican,5,College degree,White,Married,Not Real At All,0,4,4,0,1,NaN,NaN,5,4
+91000,0,65,Republican,5,College degree,White,Married,Real but not Caused by People,0,5,0,0,0,1,2,5,4
+188000,0,47,NaN,NaN,College degree,White,Married,NaN,1,5,8,0,0,NaN,3,NaN,4
+21000,1,43,Independent,1,High school,White,In a relationship,Not Real At All,4,5,4,0,1,0,2,15,4
+103000,0,58,Independent,4,Some college,White,Married,Real but not Caused by People,0,5,5,0,0,0,1,100,2
+27000,0,59,Independent,3,Graduate degree,White,Married,Real but not Caused by People,0,5,16,0,1,NaN,NaN,5,4
+326000,1,58,Democrat,1,Graduate degree,White,Married,Real and Caused by People,1,5,40,1,0,0,3,0.5,4
+74000,1,66,Democrat,1,Some college,White,Married,Real and Caused by People,0,5,12,1,0,1,3,45,5
+500000,0,42,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,15,0,0,0,3,2,5
+86000,0,60,Democrat,1,NaN,NaN,Married,Real and Caused by People,0,NaN,10,0,NaN,0,1,NaN,NaN
+77000,NaN,55,Independent,5,Graduate degree,Black,Married,Real but not Caused by People,5,5,25,1,1,0,NaN,NaN,5
+500000,1,70,Independent,1,Graduate degree,White,Married,Real and Caused by People,0,5,10,0,0,NaN,2,12,5
+47000,0,47,Democrat,1,College degree,White,Married,Real and Caused by People,5,5,2,0,1,0,3,30,5
+88000,1,62,NaN,3,High school,Black,Separated,Real and Caused by People,3,4,NaN,0,0,NaN,2,NaN,NaN
+56000,1,53,Independent,2,NaN,White,Married,Real and Caused by People,0,5,30,1,1,NaN,2,20,4
+68000,0,72,Republican,1,Graduate degree,White,Single,Real and Caused by People,0,5,10,0,1,NaN,3,1,5
+153000,1,60,Republican,3,Some college,White,Married,Real and Caused by People,0,2,5,1,0,NaN,NaN,20,2
+64000,1,51,Republican,5,Some college,Native American,Married,Real and Caused by People,3,5,100,0,1,0,2,60,5
+138000,0,51,Republican,5,High school,White,Married,Real but not Caused by People,1,5,6,0,1,0,2,NaN,2
+79000,1,50,NaN,5,College degree,White,Married,Real but not Caused by People,0,5,20,1,0,1,3,5,5
+64000,0,60,Republican,4,College degree,White,Married,Real but not Caused by People,0,5,3,0,0,1,2,2,4
+124000,1,50,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,50,0,0,1,3,15,5
+113000,1,58,NaN,1,Some college,Other,In a relationship,Real and Caused by People,0,5,2,0,1,0,NaN,NaN,4
+155000,0,55,Independent,4,College degree,White,In a relationship,Real but not Caused by People,0,5,6,0,0,1,3,10,4
+NaN,0,47,Independent,2,Graduate degree,White,Married,Real and Caused by People,2,5,22,0,0,0,3,NaN,5
+NaN,0,61,Independent,5,Some college,White,Married,Real and Caused by People,0,5,0,0,0,1,1,NaN,5
+NaN,0,51,Democrat,1,Some college,White,Divorced,Real but not Caused by People,0,2,0,0,1,1,3,5,4
+NaN,0,56,Independent,1,College degree,Black,Widowed,Real and Caused by People,0,1,50,1,0,0,2,20,2
+NaN,1,69,Independent,5,High school,White,Widowed,Real and Caused by People,0,4,40,0,1,1,2,40,2
+NaN,1,50,Independent,1,College degree,White,Separated,Real and Caused by People,0,5,12,0,1,1,3,3,5
+NaN,0,52,Republican,5,Graduate degree,Asian,Married,Not Real At All,NaN,4,4,NaN,1,0,1,NaN,5
+NaN,1,18,NaN,2,High school,Black,In a relationship,Real and Caused by People,4,2,2,0,0,1,1,10,1
+NaN,1,63,Independent,5,Some college,White,Married,Real but not Caused by People,2,5,2,0,0,0,3,10,5
+NaN,1,55,Republican,5,Some college,White,Married,Not Real At All,0,5,60,0,1,1,1,30,1
+13000,0,45,Democrat,1,College degree,NaN,Married,Real and Caused by People,0,4,12,0,1,1,3,50,4
+100000,0,50,NaN,5,Graduate degree,NaN,In a relationship,Real but not Caused by People,0,5,12,0,0,1,2,60,5
+NaN,1,56,Democrat,1,NaN,Other,Married,Real and Caused by People,2,4,1,1,1,1,1,40,2
+NaN,1,66,Democrat,1,Graduate degree,White,Married,Real and Caused by People,3,5,20,0,0,0,3,20,5
+NaN,0,55,Independent,3,High school,White,Married,Real and Caused by People,5,5,3,0,0,1,NaN,10,3
+NaN,1,27,NaN,1,Some college,NaN,Single,Real and Caused by People,1,5,17,1,0,1,3,10,4
+NaN,1,21,Independent,4,Some college,Latino,Single,Real and Caused by People,3,4,13,0,0,0,3,14,5
+NaN,1,58,Democrat,1,College degree,White,Divorced,NaN,0,5,200,1,NaN,1,3,20,5
+NaN,1,46,Independent,1,College degree,White,Divorced,Real and Caused by People,1,1,5,1,0,1,2,30,1
+NaN,0,37,NaN,1,High school,NaN,Single,Real and Caused by People,5,1,7,1,NaN,1,2,80,4
+NaN,0,21,Republican,4,Some college,Latino,Single,NaN,0,5,0,0,1,1,2,10,2
+NaN,1,33,Independent,4,College degree,Black,Other,Real and Caused by People,5,1,50,1,1,0,2,5,1
+NaN,0,50,Republican,5,Graduate degree,White,Married,Not Real At All,0,5,12,0,0,1,2,10,5
+NaN,1,22,NaN,1,College degree,White,Single,Real and Caused by People,2,5,6,1,0,1,3,1,5
+NaN,0,45,NaN,1,Some college,Black,Divorced,Real and Caused by People,3,2,2,1,1,1,3,2,4
+NaN,0,33,Republican,NaN,Graduate degree,White,Married,NaN,1,5,10,0,0,1,2,0,5
+NaN,1,29,Democrat,1,College degree,Asian,Single,Real and Caused by People,2,5,100,1,0,1,3,2,5
+NaN,0,30,Democrat,4,College degree,Latino,In a relationship,Real and Caused by People,3,5,5,0,1,0,1,NaN,5
+NaN,0,67,Democrat,1,Some college,White,Married,Real and Caused by People,3,5,4,1,1,0,3,3,5
+NaN,0,57,Independent,1,Some college,Black,Divorced,Real and Caused by People,0,5,3,0,1,NaN,NaN,NaN,5
+NaN,0,20,Democrat,3,High school,Black,Married,Real and Caused by People,1,5,1,0,1,0,3,4,2
+NaN,1,51,NaN,NaN,Graduate degree,Asian,Married,Real and Caused by People,0,5,1,0,1,1,2,30,5
+NaN,1,48,NaN,2,Some college,White,Divorced,Real but not Caused by People,0,5,3,0,1,NaN,NaN,NaN,4
+NaN,0,63,Republican,5,College degree,White,Married,Real but not Caused by People,0,5,80,0,0,NaN,2,NaN,1
+NaN,0,72,NaN,1,Graduate degree,White,Married,Real and Caused by People,0,5,5,0,0,1,3,0.7,5
+NaN,1,61,Democrat,1,High school,White,Single,Real and Caused by People,1,2,100,1,1,1,NaN,40,2
+NaN,0,59,Democrat,1,Graduate degree,White,Married,Real and Caused by People,1,5,5,0,0,NaN,3,10,5
+NaN,0,57,Independent,3,College degree,Latino,Married,Not Real At All,0,5,3,0,1,1,2,NaN,NaN
+NaN,0,50,NaN,1,College degree,White,Single,Real and Caused by People,5,1,2,0,1,1,1,10,2
+NaN,1,27,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,25,0,1,0,3,10,4
+NaN,0,80,Democrat,1,College degree,NaN,Married,Real but not Caused by People,NaN,1,20,0,1,0,3,2,5
+NaN,0,83,Republican,5,College degree,White,Widowed,Not Real At All,0,5,0,0,1,0,2,30,4
+NaN,0,90,Democrat,1,College degree,Black,Widowed,Real and Caused by People,3,5,15,0,NaN,NaN,3,NaN,5
+NaN,0,24,Democrat,1,College degree,Asian,Single,Real and Caused by People,0,5,1,0,0,1,3,10,5
+NaN,0,70,Independent,4,High school,White,Single,Real and Caused by People,1,5,1,1,1,0,2,40,2
+NaN,0,22,NaN,NaN,College degree,White,Single,Real and Caused by People,4,3,4,0,0,NaN,2,80,NaN
+NaN,0,49,Independent,1,College degree,White,Divorced,Real and Caused by People,0,4,12,1,1,1,3,5,5
+NaN,1,23,Democrat,2,Some college,Asian,In a relationship,Real and Caused by People,2,5,10,0,0,1,3,NaN,4
+NaN,0,24,Democrat,1,Some college,White,Single,Real and Caused by People,2,5,6,1,0,1,2,10,5
+NaN,1,50,NaN,3,Some college,White,Married,Real and Caused by People,1,5,0,1,NaN,1,NaN,NaN,4
+NaN,0,51,Independent,NaN,College degree,White,Single,NaN,0,5,2,1,1,0,3,15,5
+NaN,1,68,Independent,NaN,Some college,Latino,Widowed,Real but not Caused by People,0,4,2,0,1,0,1,75,2
+NaN,0,21,Independent,2,Some college,Black,Single,Real but not Caused by People,4,4,6,0,1,1,2,50,4
+NaN,1,34,Democrat,1,NaN,Black,Married,Real and Caused by People,3,5,6,0,1,NaN,3,30,5
+NaN,0,24,Independent,5,Some college,Asian,Single,Real and Caused by People,1,2,56,1,NaN,NaN,NaN,NaN,2
+422000,0,46,Independent,1,Graduate degree,Black,Married,Real and Caused by People,1,4,10,0,1,0,2,5,5
+NaN,0,75,Democrat,NaN,Some college,White,Married,Not Real At All,NaN,NaN,2,0,1,NaN,3,NaN,NaN
+NaN,0,18,Independent,4,Some college,White,In a relationship,Real and Caused by People,1,5,15,0,1,1,2,45,1
+NaN,1,55,Democrat,1,Some college,White,Married,Real and Caused by People,0,5,0,1,1,1,3,NaN,5
+NaN,0,45,Independent,1,High school,White,Married,Not Real At All,0,5,5,0,1,0,2,1,4
+NaN,0,27,Independent,2,High school,Other,In a relationship,Real but not Caused by People,2,1,4,1,0,1,3,12,5
+NaN,1,89,Republican,5,Some college,White,Married,Not Real At All,0,5,5,0,0,1,1,10,1
+NaN,1,50,NaN,NaN,Graduate degree,NaN,Divorced,Real and Caused by People,0,3,10,NaN,1,NaN,NaN,NaN,3
+NaN,1,26,Independent,1,Some college,Asian,Married,Not Real At All,3,5,2,0,1,1,2,100,5
+NaN,1,34,Independent,1,High school,Latino,Married,Real and Caused by People,2,5,0,1,0,1,NaN,NaN,5
+NaN,1,26,Independent,1,College degree,White,Single,Real and Caused by People,2,4,5,1,0,1,3,10,4
+NaN,0,36,NaN,NaN,Graduate degree,Asian,Married,NaN,3,NaN,NaN,1,0,NaN,3,NaN,NaN
+NaN,0,75,Independent,5,Graduate degree,White,Widowed,Real and Caused by People,0,3,62,1,0,0,3,7,5
+NaN,0,44,Independent,1,Some college,Other,Married,Real and Caused by People,0,5,0,0,0,1,1,40,1
+NaN,1,70,Independent,1,Graduate degree,White,Single,Real and Caused by People,1,2,3,1,0,1,2,1,4
+NaN,0,79,Independent,5,Some college,White,Widowed,Real and Caused by People,1,5,25,0,1,1,3,15,1
+NaN,0,40,NaN,1,Graduate degree,Black,Single,Real and Caused by People,4,1,59,0,0,0,3,12,5
+NaN,1,66,Republican,1,Graduate degree,Asian,Married,Real and Caused by People,0,2,2,0,NaN,0,NaN,NaN,2
+NaN,1,53,Independent,1,High school,White,Married,Real but not Caused by People,2,4,2,1,1,NaN,1,70,4
+NaN,0,23,Independent,1,College degree,White,In a relationship,Real and Caused by People,1,5,2,0,1,1,3,10,5
+NaN,0,80,Democrat,1,College degree,Latino,Divorced,Real and Caused by People,1,4,1000,0,0,0,3,25,4
+NaN,0,26,NaN,3,College degree,Latino,Single,Real and Caused by People,0,5,7,0,0,0,3,40,5
+NaN,0,45,Independent,3,Some college,Latino,Divorced,Real and Caused by People,NaN,5,5,0,0,0,NaN,NaN,4
+140000,1,62,Democrat,4,Some college,White,Married,Real and Caused by People,2,5,4,0,0,0,1,50,1
+105000,0,75,Democrat,NaN,Some college,Asian,Married,Real and Caused by People,2,5,1,1,1,1,2,20,2
+NaN,0,32,Independent,3,High school,Latino,In a relationship,Real and Caused by People,4,5,0,1,1,0,3,45,5
+NaN,1,46,Independent,5,College degree,White,Married,Real and Caused by People,0,4,1,0,NaN,1,2,NaN,4
+NaN,1,55,Democrat,1,College degree,White,Single,Real and Caused by People,1,5,300,1,1,0,3,5,5
+NaN,1,51,Republican,5,Some college,White,In a relationship,Real but not Caused by People,0,5,3,0,1,0,NaN,NaN,2
+NaN,0,39,Democrat,1,College degree,White,Married,Real and Caused by People,3,5,4,0,0,1,3,1,5
+127000,1,50,NaN,2,Some college,Latino,Married,Real and Caused by People,0,5,12,0,0,1,3,1,4
+84000,1,45,Independent,4,Graduate degree,White,Married,Real but not Caused by People,3,5,15,1,1,0,3,7,2
+104000,0,59,Independent,1,Graduate degree,NaN,Married,Real but not Caused by People,0,5,30,0,0,1,NaN,NaN,4
+NaN,1,50,NaN,NaN,College degree,Asian,Single,Not Real At All,NaN,2,NaN,1,0,0,NaN,NaN,4
+NaN,0,29,Democrat,NaN,College degree,White,Married,Real and Caused by People,0,5,5,1,0,1,2,20,4
+NaN,0,87,Democrat,NaN,NaN,Black,Married,Real and Caused by People,0,3,3,0,1,1,1,NaN,3
+NaN,0,29,Independent,1,College degree,Asian,Single,Real and Caused by People,1,5,3,0,0,1,3,5,5
+NaN,1,25,Independent,1,High school,Black,Single,Real and Caused by People,3,5,0,1,0,1,3,50,5
+NaN,1,39,NaN,1,Graduate degree,Latino,Married,NaN,0,2,NaN,0,NaN,0,3,100,NaN
+NaN,1,40,Independent,4,College degree,White,Married,Real and Caused by People,0,5,4,0,0,1,2,5,4
+NaN,0,40,Republican,4,High school,Black,Married,NaN,3,4,0,0,0,0,2,NaN,NaN
+NaN,1,57,Republican,5,High school,White,Divorced,Real and Caused by People,0,4,4,1,1,1,NaN,NaN,2
+NaN,0,19,Independent,4,Some college,White,Single,Real and Caused by People,2,5,5,1,0,0,2,4,5
+NaN,1,54,Democrat,1,Graduate degree,White,Married,Real and Caused by People,0,5,7,0,0,1,3,25,4
+NaN,1,18,Democrat,1,High school,Latino,Single,Real and Caused by People,0,5,4,1,0,0,3,40,1
+NaN,1,65,Independent,1,Graduate degree,White,Married,Real and Caused by People,0,5,40,0,0,0,3,2,5
+NaN,1,89,Democrat,3,Some college,White,Widowed,Real and Caused by People,0,5,5,0,1,0,NaN,NaN,5
+NaN,0,70,Independent,2,Some college,Black,Single,Not Real At All,NaN,NaN,NaN,0,1,1,3,NaN,NaN
+NaN,0,41,Independent,5,Some college,White,Married,Real and Caused by People,0,5,0,0,1,1,2,25,1
+NaN,0,65,Democrat,NaN,High school,White,Separated,Real but not Caused by People,0,5,0,1,1,0,NaN,0,NaN
+NaN,0,64,Democrat,4,High school,White,Single,Real and Caused by People,3,2,0,0,1,0,2,NaN,4
+NaN,1,38,Independent,1,College degree,Black,Married,Real and Caused by People,3,4,3,1,1,1,3,10,4
+NaN,0,78,Independent,5,Some college,White,Married,Real and Caused by People,0,5,3,0,1,0,3,5,5
+NaN,1,26,Independent,2,College degree,White,In a relationship,Real but not Caused by People,3,4,1,1,1,1,3,60,5
+NaN,0,59,Republican,4,Some college,White,Divorced,Real but not Caused by People,0,5,0,1,0,1,2,50,NaN
+NaN,0,18,Independent,NaN,High school,Latino,Single,Real and Caused by People,3,5,15,0,0,1,3,NaN,4
+NaN,NaN,41,NaN,NaN,College degree,White,Married,Real but not Caused by People,0,5,4,0,0,0,3,3,3
+NaN,0,49,Republican,1,Some college,NaN,Single,Real and Caused by People,NaN,4,10,1,1,1,3,35,4
+NaN,NaN,30,Democrat,5,Some college,White,Divorced,Real and Caused by People,2,1,9.5,0,0,1,3,5,5
+NaN,0,52,Independent,1,Graduate degree,Latino,Married,Real and Caused by People,1,5,20,0,1,1,3,2,2
+NaN,1,66,Republican,5,High school,White,Married,Real but not Caused by People,0,5,10,0,1,0,1,NaN,4
+NaN,0,44,Independent,5,College degree,White,Married,Real but not Caused by People,0,4,3,0,0,NaN,1,NaN,4
+NaN,0,65,Democrat,1,Some college,White,Widowed,Real and Caused by People,0,5,0,0,NaN,0,3,10,1
+NaN,1,81,Republican,NaN,Some college,White,Widowed,Not Real At All,NaN,5,5,0,1,NaN,2,NaN,5
+NaN,1,59,Republican,4,College degree,White,Married,Real but not Caused by People,0,5,10,0,1,0,2,10,4
+NaN,0,25,Independent,4,College degree,White,Married,Real but not Caused by People,2,5,20,0,0,0,1,NaN,4
+NaN,1,22,Independent,4,College degree,White,Single,Not Real At All,2,4,10,0,1,0,3,10,2
+NaN,NaN,34,Republican,1,College degree,White,Single,Real and Caused by People,4,5,10,0,1,1,1,NaN,2
+NaN,0,74,Republican,5,Some college,White,Married,Real and Caused by People,0,3,3,0,0,0,1,NaN,4
+NaN,0,60,Independent,1,Graduate degree,White,Married,Real but not Caused by People,0,5,4,1,1,NaN,3,10,2
+NaN,0,46,NaN,5,High school,Asian,Married,Not Real At All,3,5,0,0,1,1,2,NaN,5
